@@ -1,5 +1,6 @@
 const tablinks = document.getElementsByClassName("tablinks");
 const tabcontent = document.querySelectorAll('.tabcontent');
+const content = document.querySelector('.content');
 
 export function openTab(tab) {
 
@@ -12,3 +13,10 @@ export function openTab(tab) {
             cont.style.display = 'block'
     }
 }
+
+
+{/* <div class="tab">
+    <button class="tablinks">London</button>
+    <button class="tablinks">Paris</button>
+    <button class="tablinks">Tokyo</button>
+</div> */}
