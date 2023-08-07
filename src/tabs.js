@@ -1,6 +1,20 @@
+export function createTabList() {
+    const tabDiv = document.createElement('div');
+    const cities = ['London', 'Paris', 'Tokyo'];
+    const tabBtn = document.createElement('button');
+    tabDiv.classList.add('tab');
+    tabBtn.classList.add('tablinks');
+    for (let city of cities) {
+        let tempBtn = document.createElement('button');
+        tempBtn.classList.add('tablinks');
+        tempBtn.innerText = city;
+        tabDiv.appendChild(tempBtn);
+    }
+    return tabDiv;
+}
+
 const tablinks = document.getElementsByClassName("tablinks");
 const tabcontent = document.querySelectorAll('.tabcontent');
-const content = document.querySelector('.content');
 
 export function openTab(tab) {
 
@@ -15,8 +29,9 @@ export function openTab(tab) {
 }
 
 
-{/* <div class="tab">
+
+/* <div class="tab">
     <button class="tablinks">London</button>
     <button class="tablinks">Paris</button>
     <button class="tablinks">Tokyo</button>
-</div> */}
+</div> */
