@@ -1,0 +1,199 @@
+{
+   "name":"The Restaurant",
+   "description" : "a description of this business",
+   "address" : {
+    "streetAddress" : "STREET ADDRESS",
+    "addressLocality" : "CITY"
+  },
+   "servesCuisine":[
+      "American cuisine"
+   ],
+   "hasMenu":{
+      "@type":"Menu",
+      "name":"Dine-In Menu",
+      "description":"Menu for in-restaurant dining only.",
+      "hasMenuSection":[
+         {
+            "Italy":[
+               {
+                  "name":"Starters",
+                  "description":"Appetizers and such",
+                  "MenuItems":{
+                    "item1":{
+                        "name":"Caponata",
+                        "description":"Sicilian dish consisting of chopped fried eggplant and other vegetables, seasoned with olive oil, tomato sauce, celery, olives, and capers, in an agrodolce sauce.",
+                        "offers":{
+                            "price":"9.43",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item2":{
+                        "name":"Spiedini",
+                        "description":"Spiedini are the equivalent of Italian kebabs and can be flavored differently depending on the regional recipe.",
+                        "offers":{
+                            "price":"8.38",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item3":{
+                        "name":"Crostini",
+                        "description":"Appetizer consisting of small slices of grilled or toasted bread and toppings.",
+                        "offers":{
+                            "price":"7.54",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item4":{
+                        "name":"Bruschetta",
+                        "description":"Dish consisting of grilled bread rubbed with garlic and topped with olive oil and salt.",
+                        "offers":{
+                            "price":"7.21",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item5":{
+                        "name":"Focaccia",
+                        "description":"Flat leavened oven-baked Italian bread.",
+                        "offers":{
+                            "price":"8.26",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item6":{
+                        "name":"Marinated Mozzarella Balls",
+                        "description":"Mozzarella balls marinated with garlic, basil, oregano and red pepper flakes.",
+                        "offers":{
+                            "price":"9.33",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item7":{
+                        "name":"Eggplant Parmesan Poppers",
+                        "description":"Bite-sized nuggets of eggplant coated in Parmesan breadcrumbs and fried to crispy, golden brown perfection.",
+                        "offers":{
+                            "price":"7.56",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item8":{
+                        "name":"Caprese Skewers",
+                        "description":"Skewered caprese salad with small mozzarella balls, Cherry tomatoes, Fresh basil leaves, Olive Oil, Balsamic glaze",
+                        "offers":{
+                            "price":"9.12",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item9":{
+                        "name":"Marinated Olives",
+                        "description":"Olives marinated with garlic, red wine vinegar, extra virgin olive oil, orange, chilli flakes, parsley and oregano.",
+                        "offers":{
+                            "price":"6.94",
+                            "priceCurrency":"USD"
+                        }
+                    },
+                    "item10":{
+                        "name":"Calzone Pinwheels",
+                        "description":"Appetizer filled with pepperoni, mushrooms, onion, and green bell pepper.",
+                        "offers":{
+                            "price":"7.77",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                  }
+               },
+               {
+                  "name":"Soups & Salads",
+                  "description":"Salads and a few choices of soup",
+                  "offers":{
+                     "@type":"Offer",
+                     "availabilityEnds":"T8:22:00",
+                     "availabilityStarts":"T8:22:00"
+                  },
+                  "MenuItems":{
+                    "item1":{
+                        "name":"Caponata",
+                        "description":"Sicilian dish consisting of chopped fried eggplant and other vegetables, seasoned with olive oil, tomato sauce, celery, olives, and capers, in an agrodolce sauce.",
+                        "offers":{
+                            "price":"9.43",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item2":{
+                        "name":"Spiedini",
+                        "description":"Spiedini are the equivalent of Italian kebabs and can be flavored differently depending on the regional recipe.",
+                        "offers":{
+                            "price":"8.38",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item3":{
+                        "name":"Crostini",
+                        "description":"Appetizer consisting of small slices of grilled or toasted bread and toppings.",
+                        "offers":{
+                            "price":"7.54",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item4":{
+                        "name":"Bruschetta",
+                        "description":"Dish consisting of grilled bread rubbed with garlic and topped with olive oil and salt.",
+                        "offers":{
+                            "price":"7.21",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item5":{
+                        "name":"Focaccia",
+                        "description":"Flat leavened oven-baked Italian bread.",
+                        "offers":{
+                            "price":"8.26",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item6":{
+                        "name":"Marinated Mozzarella Balls",
+                        "description":"Mozzarella balls marinated with garlic, basil, oregano and red pepper flakes.",
+                        "offers":{
+                            "price":"9.33",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item7":{
+                        "name":"Eggplant Parmesan Poppers",
+                        "description":"Bite-sized nuggets of eggplant coated in Parmesan breadcrumbs and fried to crispy, golden brown perfection.",
+                        "offers":{
+                            "price":"7.56",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item8":{
+                        "name":"Caprese Skewers",
+                        "description":"Skewered caprese salad with small mozzarella balls, Cherry tomatoes, Fresh basil leaves, Olive Oil, Balsamic glaze",
+                        "offers":{
+                            "price":"9.12",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item9":{
+                        "name":"Marinated Olives",
+                        "description":"Olives marinated with garlic, red wine vinegar, extra virgin olive oil, orange, chilli flakes, parsley and oregano.",
+                        "offers":{
+                            "price":"6.94",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                    "item10":{
+                        "name":"Calzone Pinwheels",
+                        "description":"Appetizer filled with pepperoni, mushrooms, onion, and green bell pepper.",
+                        "offers":{
+                            "price":"7.77",
+                            "priceCurrency":"USD"
+                        }
+                    }
+                  },
+               }
+            ]
+         }
+      ]
+   }
+}
