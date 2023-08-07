@@ -104,89 +104,84 @@
                {
                   "name":"Soups & Salads",
                   "description":"Salads and a few choices of soup",
-                  "offers":{
-                     "@type":"Offer",
-                     "availabilityEnds":"T8:22:00",
-                     "availabilityStarts":"T8:22:00"
-                  },
                   "MenuItems":{
                     "item1":{
-                        "name":"Caponata",
-                        "description":"Sicilian dish consisting of chopped fried eggplant and other vegetables, seasoned with olive oil, tomato sauce, celery, olives, and capers, in an agrodolce sauce.",
+                        "name":"Ribollita",
+                        "description":"Tuscan bread soup, panade, porridge, or potage made with bread and vegetables, often from leftovers.",
                         "offers":{
-                            "price":"9.43",
+                            "price":"11.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Spiedini",
-                        "description":"Spiedini are the equivalent of Italian kebabs and can be flavored differently depending on the regional recipe.",
+                        "name":"Stracciatella",
+                        "description":"Italian soup consisting of meat broth and small shreds of an egg-based mixture, prepared by drizzling the mixture into boiling broth and stirring.",
                         "offers":{
-                            "price":"8.38",
+                            "price":"13.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Crostini",
-                        "description":"Appetizer consisting of small slices of grilled or toasted bread and toppings.",
+                        "name":"Sicilian Meatball Soup",
+                        "description":"Flavored with Parmesan and garlic and studded with raisins, scrumptious Sicilian meatballs turn vegetable soup into an irresistible meal.",
                         "offers":{
-                            "price":"7.54",
+                            "price":"11.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Bruschetta",
-                        "description":"Dish consisting of grilled bread rubbed with garlic and topped with olive oil and salt.",
+                        "name":"Pappa al Pomodoro",
+                        "description":"Thick Tuscan bread soup prepared with fresh tomatoes, bread, olive oil, garlic, basil, and various other fresh ingredients.",
                         "offers":{
-                            "price":"7.21",
+                            "price":"14.44",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Focaccia",
-                        "description":"Flat leavened oven-baked Italian bread.",
+                        "name":"Ligurian Seafood Soup",
+                        "description":"This gorgeous dish of layered shellfish and seafood is based on a recipe that sommelier Richard Betts found in a 1995 issue of F&W.",
                         "offers":{
-                            "price":"8.26",
+                            "price":"13.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Marinated Mozzarella Balls",
-                        "description":"Mozzarella balls marinated with garlic, basil, oregano and red pepper flakes.",
+                        "name":"Summer Farro Salad",
+                        "description":"Farro salad is packed with summer veggies and is tossed in a simple but high-impact tomato-balsamic vinaigrette.",
                         "offers":{
-                            "price":"9.33",
+                            "price":"10.10",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Eggplant Parmesan Poppers",
-                        "description":"Bite-sized nuggets of eggplant coated in Parmesan breadcrumbs and fried to crispy, golden brown perfection.",
+                        "name":"Shaved Raw Asparagus with Parmesan Dressing",
+                        "description":"Shaved asparagus salad with arugula, pistachios, Parmesan cheese, avocado, and a homemade lemon salad dressing.",
                         "offers":{
-                            "price":"7.56",
+                            "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Caprese Skewers",
-                        "description":"Skewered caprese salad with small mozzarella balls, Cherry tomatoes, Fresh basil leaves, Olive Oil, Balsamic glaze",
+                        "name":"Big Italian Salad",
+                        "description":"Part green salad, part antipasto salad, this recipe combines lettuce, celery, onion, peperoncini, olives, and cherry tomatoes",
                         "offers":{
-                            "price":"9.12",
+                            "price":"12.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Marinated Olives",
-                        "description":"Olives marinated with garlic, red wine vinegar, extra virgin olive oil, orange, chilli flakes, parsley and oregano.",
+                        "name":"Giardiniera with Ham and White Beans",
+                        "description":"This salad is a nod to the pickled vegetables (giardiniera) in the Gramercy Tavern salad. Grace Parisi quickly soaks baby cauliflower in vinegar and sugar, then combines it with snap peas, white beans, ham and sunflower seeds to create a unique main-course dish.",
                         "offers":{
-                            "price":"6.94",
+                            "price":"13.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Calzone Pinwheels",
-                        "description":"Appetizer filled with pepperoni, mushrooms, onion, and green bell pepper.",
+                        "name":"Lemony Chickpea Salad",
+                        "description":"This chickpea salad is accented with lemon, garlic, rosemary, and oregano, and gets a kick of flavor from quick-pickled onion and chopped peperoncini.",
                         "offers":{
-                            "price":"7.77",
+                            "price":"11.27",
                             "priceCurrency":"USD"
                         }
                     }
