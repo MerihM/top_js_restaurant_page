@@ -11,6 +11,25 @@ export function createTabList() {
     return tabDiv;
 }
 
+export function addTabContent() {
+    const tablinks = document.querySelectorAll(".tablinks");
+    let para = document.createElement('div');
+    const kvTest = { 'London': 'England', 'Paris': 'France', 'Tokyo': 'Japan' };
+    for (let city in kvTest) {
+        let newDiv = document.createElement('div');
+        let newHeading = document.createElement('h3');
+        let newPara = document.createElement('p');
+        newDiv.classList.add('tabcontent');
+        newDiv.id = `${city}`;
+        newHeading.innerText = `${city}`;
+        newDiv.appendChild(newHeading);
+        newPara.innerText = `${city} is capital city of ${kvTest[city]}`;
+        newDiv.appendChild(newPara);
+        para.appendChild(newDiv);
+    }
+    return para;
+}
+
 export function openTab(tab) {
     const tablinks = document.getElementsByClassName("tablinks");
     const tabcontent = document.querySelectorAll('.tabcontent');
