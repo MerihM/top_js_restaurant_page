@@ -1,9 +1,7 @@
 export function createTabList() {
     const tabDiv = document.createElement('div');
     const cities = ['London', 'Paris', 'Tokyo'];
-    const tabBtn = document.createElement('button');
     tabDiv.classList.add('tab');
-    tabBtn.classList.add('tablinks');
     for (let city of cities) {
         let tempBtn = document.createElement('button');
         tempBtn.classList.add('tablinks');
@@ -13,11 +11,9 @@ export function createTabList() {
     return tabDiv;
 }
 
-const tablinks = document.getElementsByClassName("tablinks");
-const tabcontent = document.querySelectorAll('.tabcontent');
-
 export function openTab(tab) {
-
+    const tablinks = document.getElementsByClassName("tablinks");
+    const tabcontent = document.querySelectorAll('.tabcontent');
     for (let e of tablinks)
         e.classList.remove('active');
     tab.srcElement.classList.add('active');
@@ -27,11 +23,3 @@ export function openTab(tab) {
             cont.style.display = 'block'
     }
 }
-
-
-
-/* <div class="tab">
-    <button class="tablinks">London</button>
-    <button class="tablinks">Paris</button>
-    <button class="tablinks">Tokyo</button>
-</div> */
