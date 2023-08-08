@@ -1228,80 +1228,80 @@
                   "description":"Assortment of italian alcoholic beverages",
                   "MenuItems":{
                     "item1":{
-                        "name":"Barolo",
-                        "description":"From the Piedmont region of Italy, Barolo is a full-bodied red wine with an alcohol level at the higher end.",
+                        "name":"Tequila",
+                        "description":"Tequila is made from fermented blue agave plants.",
                         "offers":{
                             "price":"18.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Chianti",
-                        "description":"Characteristically served in a bulb shaped bottle with a straw case, Chianti is a red wine from Tuscany’s Chianti region.",
+                        "name":"Margarita",
+                        "description":"Lime is the classic flavor for margaritas, but mixologists experiment with different fruits and vegetables, like pineapple, cucumber, and jalapeno, or more exotic flavors.",
                         "offers":{
                             "price":"15.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Pinot Grigio",
-                        "description":"Pinot Grigio has become a staple white wine around the globe due to how drinkable it is. A zesty wine, it’s named after the grape its made from.",
+                        "name":"Paloma",
+                        "description":"It is made with grapefruit soda and a splash of lime, and it’s incredibly refreshing on a hot afternoon.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Soave",
-                        "description":"From the Veneto region, near Verona, Soave is a dry white wine.",
+                        "name":"Carajillo",
+                        "description":"After a full meal of authentic Mexican cuisine, there’s nothing better than a carajillo, one of Mexico’s best drinks, and this is one that can be served hot or cold.",
                         "offers":{
                             "price":"17.24",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Prosecco",
-                        "description":"A sparkling white wine from northern Italy, Prosecco’s popularity has grown massively over the last decade.",
+                        "name":"Agua Frescas",
+                        "description":"Agua frescas are fruit-flavored waters made from the natural produce of the country.",
                         "offers":{
                             "price":"15.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Campari",
-                        "description":"Campari is a bitter liqueur invented in 1860 by Gaspare Campari in Novara, Italy. 150 years on, Campari is one of the most popular aperitifs in Italy and one of the best-known Italian liqueurs across the world.",
+                        "name":"Michelada",
+                        "description":"If you’re looking for a drink that’s both savory and spicy, you’ll want to check out the michelada.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Bellini",
-                        "description":"The bellini is a sweet and fruity Italian mixed drink consisting of just two ingredients; Prosecco and peach purée.",
+                        "name":"Mexican Hot Chocolate",
+                        "description":"Instead, it’s a lot like any other hot chocolate you’ve had; only it has a richer, bolder chocolate flavor, and there’s a bit of heat and spice to it.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Campari Soda",
-                        "description":"One of the simplest Italian cocktails but extremely popular nonetheless, Campari Soda is made by mixing Campari liqueur with sparkling soda water.",
+                        "name":"Horchata",
+                        "description":"Sweet, creamy, and milky, with just enough cinnamon to add spice, horchata goes with practically anything.",
                         "offers":{
                             "price":"6.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Cappucino",
-                        "description":"A cappuccino is a single espresso shot served with hot milk and topped with foamed milk and a dash of cocoa powder.",
+                        "name":"Champurrado",
+                        "description":"This is chocolate the way the ancient Aztecs used to drink it, and it’s spectacular.",
                         "offers":{
                             "price":"3.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Espresso",
-                        "description":"Coffee is another staple of Italian drinking culture. Starting the day with a coffee and pastry in a charming local cafe is a must while in Italy.",
+                        "name":"Cafe de Olla",
+                        "description":"It’s a bit like a cinnamon-sprinkled latte, but the taste will be subtly different if you use dark Mexican coffee.",
                         "offers":{
                             "price":"3.27",
                             "priceCurrency":"USD"
