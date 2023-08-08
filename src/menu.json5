@@ -796,80 +796,80 @@
                   "description":"Assortment of italian alcoholic beverages",
                   "MenuItems":{
                     "item1":{
-                        "name":"Barolo",
-                        "description":"From the Piedmont region of Italy, Barolo is a full-bodied red wine with an alcohol level at the higher end.",
+                        "name":"Urwagwa",
+                        "description":"Kenyan Banana Beer - Made from the fermentation of banana puree, Urwagwa is the oldest and most popular beer in Kenya.",
                         "offers":{
                             "price":"18.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Chianti",
-                        "description":"Characteristically served in a bulb shaped bottle with a straw case, Chianti is a red wine from Tuscany’s Chianti region.",
+                        "name":"Chai",
+                        "description":"Tea, or 'Chai' in Swahili, is ubiquitous in the country, popular with both the haves and have-nots.",
                         "offers":{
                             "price":"15.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Pinot Grigio",
-                        "description":"Pinot Grigio has become a staple white wine around the globe due to how drinkable it is. A zesty wine, it’s named after the grape its made from.",
+                        "name":"Maziwa Mala",
+                        "description":"Kenyan Fermented Milk - The sweet and sour drink is a great condiment to go with the staple Ugali.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Soave",
-                        "description":"From the Veneto region, near Verona, Soave is a dry white wine.",
+                        "name":"Tusker",
+                        "description":"Introduced in 1922, the East African Breweries’ it continues to be one of the most beloved alcoholic drink in the country.",
                         "offers":{
                             "price":"17.24",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Prosecco",
-                        "description":"A sparkling white wine from northern Italy, Prosecco’s popularity has grown massively over the last decade.",
+                        "name":"Dawa",
+                        "description":"If you just want to give your system a cleanse, Dawa is what you should go for.",
                         "offers":{
                             "price":"15.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Campari",
-                        "description":"Campari is a bitter liqueur invented in 1860 by Gaspare Campari in Novara, Italy. 150 years on, Campari is one of the most popular aperitifs in Italy and one of the best-known Italian liqueurs across the world.",
+                        "name":"Afia Juice",
+                        "description":"This Kenyan made 100% fruit-based juice is a family favourite in all Kenyan regions.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Bellini",
-                        "description":"The bellini is a sweet and fruity Italian mixed drink consisting of just two ingredients; Prosecco and peach purée.",
+                        "name":"Mursik",
+                        "description":"This is simply cultured milk that is flavoured with traditional herbs and preserved using charcoal.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Campari Soda",
-                        "description":"One of the simplest Italian cocktails but extremely popular nonetheless, Campari Soda is made by mixing Campari liqueur with sparkling soda water.",
+                        "name":"Supu",
+                        "description":"You can enjoy Supu with nyama choma, mutura or just by itself.",
                         "offers":{
                             "price":"6.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Cappucino",
-                        "description":"A cappuccino is a single espresso shot served with hot milk and topped with foamed milk and a dash of cocoa powder.",
+                        "name":"Madafu",
+                        "description":"Madafu a.k.a coconut water is one of the sweetest Kenyan drinks.",
                         "offers":{
                             "price":"3.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Espresso",
-                        "description":"Coffee is another staple of Italian drinking culture. Starting the day with a coffee and pastry in a charming local cafe is a must while in Italy.",
+                        "name":"Kenyan Wimbi Porridge",
+                        "description":"This delicious drink is a major staple in many Kenyan homes, particularly in rural settings.",
                         "offers":{
                             "price":"3.27",
                             "priceCurrency":"USD"
