@@ -632,72 +632,72 @@
                         }
                     },
                     "item2":{
-                        "name":"Chicken Scarpariello",
-                        "description":"Chicken scarpariello, also known as shoemaker's chicken, is a classic Italian-American dish of chicken, sausage, vinegar, onions and peppers.",
+                        "name":"Ingoho",
+                        "description":"In western Kenya, Luhyas will cook you ingoho if they want to honor you as an important visitor.",
                         "offers":{
                             "price":"18.28",
                             "priceCurrency":"USD"
                         }
                     },
                     "item3":{
-                        "name":"Spaghetti with Anchovy Carbonara",
-                        "description":"Traditional carbonara consists of pasta, egg, guanciale (pork jowl), pecorino, and pepper. Using anchovies in place of the guanciale and pecorino in this recipe makes it a bit lighter but keeps that salty flavor.",
+                        "name":"Kenyan Style Stew",
+                        "description":"This Kenyan stew dish is prepared with chunky cuts of meat and vegetables cooked to achieve a thick consistency.",
                         "offers":{
                             "price":"17.34",
                             "priceCurrency":"USD"
                         }
                     },
                     "item4":{
-                        "name":"Smoky Pork Pappardelle",
-                        "description":"For the luscious meat sauce, pork is braises with apples and honey, which adds some unexpected sweetness.",
+                        "name":"Mrenda",
+                        "description":"Mrenda is an indigenous vegetable popular with the Luhya community. It has the smooth texture of okra when cooked and is very bitter, best served with ugali.",
                         "offers":{
                             "price":"18.21",
                             "priceCurrency":"USD"
                         }
                     },
                     "item5":{
-                        "name":"Tuscan-Style Spareribs with Balsamic Glaze",
-                        "description":"Generously seasoned ribs with a mix of aromatic herbs and spices and slow-roasted until tender and crisp, finished with a simple balsamic glaze.",
+                        "name":"Kenyan Madras Chutney",
+                        "description":"It can be made with mangoes, papayas, carrots, coconuts.",
                         "offers":{
                             "price":"19.26",
                             "priceCurrency":"USD"
                         }
                     },
                     "item6":{
-                        "name":"Sardinian Stuffed Eggplant",
-                        "description":"Eggplants from the first pick of the season (le primizie) or firm, heavy eggplants with smooth, evenly colored skin are used in this dish because of their supple texture and earthy-sweet flavor without a hint of bitterness.",
+                        "name":"Kuku Paka",
+                        "description":"This East African Kuku Paka dish, with its Swahili, Indian and Arabic influences.",
                         "offers":{
                             "price":"17.33",
                             "priceCurrency":"USD"
                         }
                     },
                     "item7":{
-                        "name":"Pea and Bacon Risotto",
-                        "description":"Not one for risotto purists – this simple recipe has just a few ingredients and the stock is added all in one go. The result is creamy, comforting yet healthy.",
+                        "name":"Beef Mishkaki",
+                        "description":"Mishkaki is a famous East African meat delicacy, cooked on an open grill.",
                         "offers":{
                             "price":"17.65",
                             "priceCurrency":"USD"
                         }
                     },
                     "item8":{
-                        "name":"Braised Chicken all'Arrabbiata",
-                        "description":"All'Arrabbiata means "in an angry style" in Italian. Chicken is braised with five kinds of peppers in a wood-fired oven. Chicken is spiced with poblano and chile flakes, then braised. For extra kick, some hot pickled cherry peppers are tossed in.",
+                        "name":"Sukama wiki",
+                        "description":" It’s healthy, packed with flavour and tastes delicious with nyama choma and ugali.",
                         "offers":{
                             "price":"19.12",
                             "priceCurrency":"USD"
                         }
                     },
                     "item9":{
-                        "name":"Beef Brasato with Pappardelle and Mint",
-                        "description":"Chef braises beef shank and oxtail in red wine to make a brasato he serves with house-made mint pappardelle.",
+                        "name":"Nyama",
+                        "description":"Nyama, or Kenyan stewed beef, is one of those dishes that will taste different each time you eat it.",
                         "offers":{
                             "price":"16.34",
                             "priceCurrency":"USD"
                         }
                     },
                     "item10":{
-                        "name":"Sun-Dried Tomato and Arugula Pizza",
-                        "description":"The secret to this crispy pizza: giving the dough lots of time to rise so it's pliant enough to stretch very thin.",
+                        "name":"Githeri",
+                        "description":"The main meal served to students since the 1920s, and it continues to trend with young people.",
                         "offers":{
                             "price":"19.84",
                             "priceCurrency":"USD"
