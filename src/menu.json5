@@ -1142,80 +1142,80 @@
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
-                        "name":"Mixed-Nut-Milk Panna Cotta",
-                        "description":"These delicate custards are a great way to showcase the subtle, nutty flavor of homemade nut milk.",
+                        "name":"Churros",
+                        "description":"Deep-fried dough sticks are coated in cinnamon sugar and dipped in chocolate or caramel.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Tiramisu Icebox Pie",
-                        "description":"Familiar elements of a classic tiramisu—ladyfingers, coffee, and mascarpone—and reimagined as an icebox pie. The dessert is full of playful textures and flavors, including a dense coffee mousse and salty-sweet coffee crunchies.",
+                        "name":"Fried Ice Cream",
+                        "description":"Drizzle chocolate or caramel syrup all over your fried ice cream for a sinful Mexican dessert.",
                         "offers":{
                             "price":"12.87",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Concord Grape Granita",
-                        "description":"This icy dessert gets its sweet, tangy taste from Concord grape juice, which has three times the antioxidant power of orange and grapefruit juices.",
+                        "name":"Caramel Flan",
+                        "description":"Sweet and melt-in-you-mouth custard oozing with caramel sauce – say hello to caramel flan.",
                         "offers":{
                             "price":"11.31",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Almond Semifreddo with Caramelized Apples",
-                        "description":"Supercreamy almond semifreddo ("half-frozen") topped with warm caramelized apples.",
+                        "name":"Tres Leches Cake",
+                        "description":"Tres leches, which literally means, “three milks,” is an incredibly moist and milky cake.",
                         "offers":{
                             "price":"12.43",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Torta Della Nonna",
-                        "description":"'Grandmother's cake' is a traditional Tuscan dessert, though everyone's nonna makes it slightly differently.",
+                        "name":"Sopapillas",
+                        "description":"Sopapillas are fluffy, puffy, and delicious dough squares deep-fried to perfection.",
                         "offers":{
                             "price":"13.12",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Raspberry Jam Bomboloni",
-                        "description":"The donut holes are filled with fruit jams or chocolate ganache, then rolled in sugar and spices like anise and cardamom as soon as they come out of the frying pan.",
+                        "name":"Mexican Buñuelos",
+                        "description":"A bunuelo is a delicious Mexican dessert that’s crispy on the outside and soft and fluffy on the inside.",
                         "offers":{
                             "price":"12.34",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"White Peach Tart",
-                        "description":"The dough is terrific for impromptu baking, because it doesn't need to be chilled before it's rolled out.",
+                        "name":"Rice Pudding",
+                        "description":"Also known as Arroz Con Leche, Mexican rice pudding is a simple dessert.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Cherries Poached in Red Wine with Mascarpone Cream",
-                        "description":"Thick mascarpone cheese mixed with honey makes a luscious topping for poached cherries.",
+                        "name":"Pineapple Empanadas",
+                        "description":"The filling’s sweet tropical flavors and gooey consistency go wonderfully with the crispy and buttery crust.",
                         "offers":{
                             "price":"14.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Zabaglione with Strawberries",
-                        "description":"The zabaglione is mixed with whipped cream and refrigerate.",
+                        "name":"Conchas",
+                        "description":"Mexican sweet bread or conchas is a classic Mexican food known for its distinct shape.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Pumpkin-Gingersnap Tiramisù",
-                        "description":"Pumpkin pie meets tiramisu, with layers of pumpkin-mascarpone custard and gingersnaps brushed with Calvados syrup.",
+                        "name":"Rumchata Cheesecake",
+                        "description":"For a sweet treat that’ll take you to dessert bliss, have a slice of this rumchata cheesecake.",
                         "offers":{
                             "price":"13.44",
                             "priceCurrency":"USD"
