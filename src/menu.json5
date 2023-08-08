@@ -710,80 +710,80 @@
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
-                        "name":"Mixed-Nut-Milk Panna Cotta",
-                        "description":"These delicate custards are a great way to showcase the subtle, nutty flavor of homemade nut milk.",
+                        "name":"Kaimati",
+                        "description":"Deep-Fried Dumplings - Kaimati is a savory and energy-rich snack that is very valuable during the period of fasting or you can enjoy it with beer or spiced coffee.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Tiramisu Icebox Pie",
-                        "description":"Familiar elements of a classic tiramisu—ladyfingers, coffee, and mascarpone—and reimagined as an icebox pie. The dessert is full of playful textures and flavors, including a dense coffee mousse and salty-sweet coffee crunchies.",
+                        "name":"Mandazi",
+                        "description":"Kenyan Doughnut - Mandazi is a sweet, light, tasty local bread that has become popular throughout the country.",
                         "offers":{
                             "price":"12.87",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Concord Grape Granita",
-                        "description":"This icy dessert gets its sweet, tangy taste from Concord grape juice, which has three times the antioxidant power of orange and grapefruit juices.",
+                        "name":"Sweet Potato Coconut Pudding",
+                        "description":"Although coconut and sweet potatoes can be enjoyed separately, mixing them creates a dessert that is tasty and nutty.",
                         "offers":{
                             "price":"11.31",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Almond Semifreddo with Caramelized Apples",
-                        "description":"Supercreamy almond semifreddo ("half-frozen") topped with warm caramelized apples.",
+                        "name":"Biskuti ya Nazi",
+                        "description":"Biskuti ya nazi is another Kenyan dessert popular in Kenya’s coastal region",
                         "offers":{
                             "price":"12.43",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Torta Della Nonna",
-                        "description":"'Grandmother's cake' is a traditional Tuscan dessert, though everyone's nonna makes it slightly differently.",
+                        "name":"Pudding ya Maziwa Lala",
+                        "description":"The dessert requires thick creamy yogurt, curd cheese, cardamom, nutmeg, sugar, and saffron.",
                         "offers":{
                             "price":"13.12",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Raspberry Jam Bomboloni",
-                        "description":"The donut holes are filled with fruit jams or chocolate ganache, then rolled in sugar and spices like anise and cardamom as soon as they come out of the frying pan.",
+                        "name":"Fruit Kebab with Chocolate Sauce",
+                        "description":"Depending on the season, the fruits available are diced into small shapes and sizes.",
                         "offers":{
                             "price":"12.34",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"White Peach Tart",
-                        "description":"The dough is terrific for impromptu baking, because it doesn't need to be chilled before it's rolled out.",
+                        "name":"Tropical Fruit with Ice Cream",
+                        "description":"Tropical fruit dessert is easy to make and requires only readily available fruit and ice cream.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Cherries Poached in Red Wine with Mascarpone Cream",
-                        "description":"Thick mascarpone cheese mixed with honey makes a luscious topping for poached cherries.",
+                        "name":"Banana and Sultana Muffins",
+                        "description":"The muffins are fluffy, spongy and tasty.",
                         "offers":{
                             "price":"14.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Zabaglione with Strawberries",
-                        "description":"The zabaglione is mixed with whipped cream and refrigerate.",
+                        "name":"Black Forest Cake",
+                        "description":"Many people choose Black Forest cake because it is just beautiful to look at.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Pumpkin-Gingersnap Tiramisù",
-                        "description":"Pumpkin pie meets tiramisu, with layers of pumpkin-mascarpone custard and gingersnaps brushed with Calvados syrup.",
+                        "name":"Banana and Oat Pancakes",
+                        "description":"Pancakes are among the most popular desserts in Kenya, they are served with sliced fruits, honey, or chocolate source.",
                         "offers":{
                             "price":"13.44",
                             "priceCurrency":"USD"
