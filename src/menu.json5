@@ -538,80 +538,80 @@
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
-                        "name":"Ribollita",
-                        "description":"Tuscan bread soup, panade, porridge, or potage made with bread and vegetables, often from leftovers.",
+                        "name":"Kachumbari",
+                        "description":"Kachumbari is best served with nyama choma or pilau, another popular coastal Kenyan dish.",
                         "offers":{
                             "price":"11.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Stracciatella",
-                        "description":"Italian soup consisting of meat broth and small shreds of an egg-based mixture, prepared by drizzling the mixture into boiling broth and stirring.",
+                        "name":"Cucumber, beetroot and mango salad",
+                        "description":"This cucumber, beetroot, and mango salad recipe is not only sweet because of the mango, but also helps boost the iron levels in your body thanks to the beetroot.",
                         "offers":{
                             "price":"13.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Sicilian Meatball Soup",
-                        "description":"Flavored with Parmesan and garlic and studded with raisins, scrumptious Sicilian meatballs turn vegetable soup into an irresistible meal.",
+                        "name":"Beetroot, carrot and apple salad",
+                        "description":"The best thing about this salad is that you can experiment with any fruit or leafy greens, and the result will be perfect.",
                         "offers":{
                             "price":"11.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Pappa al Pomodoro",
-                        "description":"Thick Tuscan bread soup prepared with fresh tomatoes, bread, olive oil, garlic, basil, and various other fresh ingredients.",
+                        "name":"Kale salad with carrot ginger dressing",
+                        "description":"The kale salad with carrot ginger dressing is enjoyed in many Kenyan households.",
                         "offers":{
                             "price":"14.44",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Ligurian Seafood Soup",
-                        "description":"This gorgeous dish of layered shellfish and seafood is based on a recipe that sommelier Richard Betts found in a 1995 issue of F&W.",
+                        "name":"Spicy watermelon tomato salad",
+                        "description":"Having tomatoes and watermelons with a little spice is the ultimate way to enjoy your watermelon.",
                         "offers":{
                             "price":"13.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Summer Farro Salad",
-                        "description":"Farro salad is packed with summer veggies and is tossed in a simple but high-impact tomato-balsamic vinaigrette.",
+                        "name":"Matoke",
+                        "description":"Matoke is a rich stew/soup made from green bananas, tomatoes, onion, garlic and flavoursome spices.",
                         "offers":{
                             "price":"10.10",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Shaved Raw Asparagus with Parmesan Dressing",
-                        "description":"Shaved asparagus salad with arugula, pistachios, Parmesan cheese, avocado, and a homemade lemon salad dressing.",
+                        "name":"Ginger-spiced carrot soup",
+                        "description":"This spicy carrot soup is as delicious as it is healthy.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Big Italian Salad",
-                        "description":"Part green salad, part antipasto salad, this recipe combines lettuce, celery, onion, peperoncini, olives, and cherry tomatoes",
+                        "name":"Peas and mint soup",
+                        "description":"This vibrant, refreshingly tasty soup is perfect if you’re craving something sweet rather than savoury.",
                         "offers":{
                             "price":"12.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Giardiniera with Ham and White Beans",
-                        "description":"This salad is a nod to the pickled vegetables (giardiniera) in the Gramercy Tavern salad. Grace Parisi quickly soaks baby cauliflower in vinegar and sugar, then combines it with snap peas, white beans, ham and sunflower seeds to create a unique main-course dish.",
+                        "name":"Butternut soup",
+                        "description":"This butternut soup is one of the most filling soups there are and it is delicious.",
                         "offers":{
                             "price":"13.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Lemony Chickpea Salad",
-                        "description":"This chickpea salad is accented with lemon, garlic, rosemary, and oregano, and gets a kick of flavor from quick-pickled onion and chopped peperoncini.",
+                        "name":"Supu ya malenge",
+                        "description":"In Kenyan cuisine, pumpkin is used in a number of ways – as a side dish, a replacement for potatoes, or in traditional soups such as this one.",
                         "offers":{
                             "price":"11.27",
                             "priceCurrency":"USD"
@@ -624,8 +624,8 @@
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
-                        "name":"Spaghetti Cacio e Pepe",
-                        "description":"A pasta dish from the cuisine of the city of Rome. Cacio e pepe means "cheese and pepper" in several central Italian dialects.",
+                        "name":"Samaki",
+                        "description":"Samaki, which means fish in Swahili, is popular with specific communities in Kenya, especially the Luo and Luhya in the west, but anyone can enjoy it.",
                         "offers":{
                             "price":"19.39",
                             "priceCurrency":"USD"
