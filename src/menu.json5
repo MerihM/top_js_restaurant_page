@@ -970,80 +970,80 @@
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
-                        "name":"Ribollita",
-                        "description":"Tuscan bread soup, panade, porridge, or potage made with bread and vegetables, often from leftovers.",
+                        "name":"Mexican Lentil Soup",
+                        "description":"This vegetarian-friendly soup is packed to the brim with all kinds of veggies, spices, and more.",
                         "offers":{
                             "price":"11.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Stracciatella",
-                        "description":"Italian soup consisting of meat broth and small shreds of an egg-based mixture, prepared by drizzling the mixture into boiling broth and stirring.",
+                        "name":"Mexican Meatball Soup",
+                        "description":"If you like thick, meaty soup with plenty of veggies, meatball soup, or albondigas soup, is the dish for you.",
                         "offers":{
                             "price":"13.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Sicilian Meatball Soup",
-                        "description":"Flavored with Parmesan and garlic and studded with raisins, scrumptious Sicilian meatballs turn vegetable soup into an irresistible meal.",
+                        "name":"Black Bean Soup",
+                        "description":"Despite its simplicity, it’s a rich, earthy, spicy soup, and the lime juice adds just a touch of zestiness to the overall flavor.",
                         "offers":{
                             "price":"11.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Pappa al Pomodoro",
-                        "description":"Thick Tuscan bread soup prepared with fresh tomatoes, bread, olive oil, garlic, basil, and various other fresh ingredients.",
+                        "name":"Mexican Pozole",
+                        "description":"Mexican pozole is a hearty, stick-to-your-ribs stew that contains meat, meat, and more meat.",
                         "offers":{
                             "price":"14.44",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Ligurian Seafood Soup",
-                        "description":"This gorgeous dish of layered shellfish and seafood is based on a recipe that sommelier Richard Betts found in a 1995 issue of F&W.",
+                        "name":"Burrito Bowl Soup",
+                        "description":"This soup is unbelievably cheesy, it’s cheesy on top of cheesy.",
                         "offers":{
                             "price":"13.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Summer Farro Salad",
-                        "description":"Farro salad is packed with summer veggies and is tossed in a simple but high-impact tomato-balsamic vinaigrette.",
+                        "name":"Cucumber Tomato Salad",
+                        "description":"This salad is for those who prefer their salads to be cool, refreshing, and supremely zesty.",
                         "offers":{
                             "price":"10.10",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Shaved Raw Asparagus with Parmesan Dressing",
-                        "description":"Shaved asparagus salad with arugula, pistachios, Parmesan cheese, avocado, and a homemade lemon salad dressing.",
+                        "name":"Black Bean Salad",
+                        "description":"Black bean salad is a lot like black bean salsa, except it’s chunkier, heartier, and less saucy.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Big Italian Salad",
-                        "description":"Part green salad, part antipasto salad, this recipe combines lettuce, celery, onion, peperoncini, olives, and cherry tomatoes",
+                        "name":"Tomato and Tomatillo Salad",
+                        "description":"It has a wonderfully fresh but tangy taste.",
                         "offers":{
                             "price":"12.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Giardiniera with Ham and White Beans",
-                        "description":"This salad is a nod to the pickled vegetables (giardiniera) in the Gramercy Tavern salad. Grace Parisi quickly soaks baby cauliflower in vinegar and sugar, then combines it with snap peas, white beans, ham and sunflower seeds to create a unique main-course dish.",
+                        "name":"Chicken Quesadilla Salad",
+                        "description":"The combination of cool, crisp garden veggies, warm, soft chicken, and hot, gooey quesadillas is incredible.",
                         "offers":{
                             "price":"13.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Lemony Chickpea Salad",
-                        "description":"This chickpea salad is accented with lemon, garlic, rosemary, and oregano, and gets a kick of flavor from quick-pickled onion and chopped peperoncini.",
+                        "name":"Mexican Shrimp Salad",
+                        "description":"The combination of peeled shrimp, black bean salsa, corn, and more tastes fantastic.",
                         "offers":{
                             "price":"11.27",
                             "priceCurrency":"USD"
