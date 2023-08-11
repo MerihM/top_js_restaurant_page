@@ -1310,86 +1310,86 @@
                   }
                },
             ]
-            "Italy":[
+            "France":[
                {
                   "name":"Starters",
                   "description":"Appetizers and such",
                   "MenuItems":{
                     "item1":{
-                        "name":"Caponata",
-                        "description":"Sicilian dish consisting of chopped fried eggplant and other vegetables, seasoned with olive oil, tomato sauce, celery, olives, and capers, in an agrodolce sauce.",
+                        "name":"Socca",
+                        "description":"Socca is like a rustic flatbread and pancake rolled into one treat.",
                         "offers":{
                             "price":"9.43",
                             "priceCurrency":"USD"
                         }
                     },
                     "item2":{
-                        "name":"Spiedini",
-                        "description":"Spiedini are the equivalent of Italian kebabs and can be flavored differently depending on the regional recipe.",
+                        "name":"Alsatian Cheese Tart",
+                        "description":"This French tart is bursting with cheesy, creamy, and smoky flavors.",
                         "offers":{
                             "price":"8.38",
                             "priceCurrency":"USD"
                         }
                     },
                     "item3":{
-                        "name":"Crostini",
-                        "description":"Appetizer consisting of small slices of grilled or toasted bread and toppings.",
+                        "name":"Onion Galette",
+                        "description":"Garlic, scallions, and onion make this pie savory and oh-so-yummy!",
                         "offers":{
                             "price":"7.54",
                             "priceCurrency":"USD"
                         }
                     },
                     "item4":{
-                        "name":"Bruschetta",
-                        "description":"Dish consisting of grilled bread rubbed with garlic and topped with olive oil and salt.",
+                        "name":"Pissaladiere",
+                        "description":"Pissaladiere is a popular dish from the Provence region of southeastern France.",
                         "offers":{
                             "price":"7.21",
                             "priceCurrency":"USD"
                         }
                     },
                     "item5":{
-                        "name":"Focaccia",
-                        "description":"Flat leavened oven-baked Italian bread.",
+                        "name":"French Cheese Puffs",
+                        "description":"These cheesy balls are made with cream puff dough that yields a crisp outer shell.",
                         "offers":{
                             "price":"8.26",
                             "priceCurrency":"USD"
                         }
                     },
                     "item6":{
-                        "name":"Marinated Mozzarella Balls",
-                        "description":"Mozzarella balls marinated with garlic, basil, oregano and red pepper flakes.",
+                        "name":"Cheese Souffle",
+                        "description":"This egg-based dish is light, airy, and full of cheesy goodness.",
                         "offers":{
                             "price":"9.33",
                             "priceCurrency":"USD"
                         }
                     },
                     "item7":{
-                        "name":"Eggplant Parmesan Poppers",
-                        "description":"Bite-sized nuggets of eggplant coated in Parmesan breadcrumbs and fried to crispy, golden brown perfection.",
+                        "name":"Brie With Pesto",
+                        "description":"Warm brie cheese and creamy basil pesto combine in this heavenly spread.",
                         "offers":{
                             "price":"7.56",
                             "priceCurrency":"USD"
                         }
                     },
                     "item8":{
-                        "name":"Caprese Skewers",
-                        "description":"Skewered caprese salad with small mozzarella balls, Cherry tomatoes, Fresh basil leaves, Olive Oil, Balsamic glaze",
+                        "name":"Coquilles St. Jacques",
+                        "description":"Coquilles St. Jacques translates to scallops in English and is a wonderful appetizer for seafood lovers",
                         "offers":{
                             "price":"9.12",
                             "priceCurrency":"USD"
                         }
                     },
                     "item9":{
-                        "name":"Marinated Olives",
-                        "description":"Olives marinated with garlic, red wine vinegar, extra virgin olive oil, orange, chilli flakes, parsley and oregano.",
+                        "name":"Baked Camembert",
+                        "description":"Camembert is a soft, creamy cheese with nutty undertones.",
                         "offers":{
                             "price":"6.94",
                             "priceCurrency":"USD"
                         }
                     },
                     "item10":{
-                        "name":"Calzone Pinwheels",
-                        "description":"Appetizer filled with pepperoni, mushrooms, onion, and green bell pepper.",
+                        "name":"Mini-Croque Monsieur",
+                        "description":"These sandwiches may be small, but they’re packed with awesome flavors!",
                         "offers":{
                             "price":"7.77",
                             "priceCurrency":"USD"
