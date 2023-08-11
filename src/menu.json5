@@ -2956,80 +2956,80 @@
                   "description":"Assortment of italian alcoholic beverages",
                   "MenuItems":{
                     "item1":{
-                        "name":"Barolo",
-                        "description":"From the Piedmont region of Italy, Barolo is a full-bodied red wine with an alcohol level at the higher end.",
+                        "name":"Višnjevača",
+                        "description":"Homemade sour cherry liqueur is derived from brandy (sherry or vodka) infused with sour cherries and sugar, and left in the sun for 40 days until it becomes a dessert liqueur or aperitif.",
                         "offers":{
                             "price":"18.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Chianti",
-                        "description":"Characteristically served in a bulb shaped bottle with a straw case, Chianti is a red wine from Tuscany’s Chianti region.",
+                        "name":"Bosnian Coffee",
+                        "description":"Bosnian coffee, aka bosanska kafa (kahva, kava), is strong, dark, and rich.",
                         "offers":{
                             "price":"15.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Pinot Grigio",
-                        "description":"Pinot Grigio has become a staple white wine around the globe due to how drinkable it is. A zesty wine, it’s named after the grape its made from.",
+                        "name":"Elderflower Cordial",
+                        "description":"Elderflower cordial (aka zova) is an invigorating, and fresh, homemade juice made from the elderberry tree flowers. If you find regular juices too heavy and water too light, then the elderflower cordial is the drink for you.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Soave",
-                        "description":"From the Veneto region, near Verona, Soave is a dry white wine.",
+                        "name":"Rakija",
+                        "description":"Rakija is a universal term used for various fruit brandies produced in several Balkan countries (Southeast Europe). This strong spirit is distilled from different fruit and is sometimes additionally flavored or used as a liqueur base.",
                         "offers":{
                             "price":"17.24",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Prosecco",
-                        "description":"A sparkling white wine from northern Italy, Prosecco’s popularity has grown massively over the last decade.",
+                        "name":"Beer",
+                        "description":"Beer is drink that people usualy drink when they go out with friends. It is something refreshing and very tasty.",
                         "offers":{
                             "price":"15.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Campari",
-                        "description":"Campari is a bitter liqueur invented in 1860 by Gaspare Campari in Novara, Italy. 150 years on, Campari is one of the most popular aperitifs in Italy and one of the best-known Italian liqueurs across the world.",
+                        "name":"Ayran",
+                        "description":"Ayran is a traditional Balkan yoghurt drink that resembles kefir.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Bellini",
-                        "description":"The bellini is a sweet and fruity Italian mixed drink consisting of just two ingredients; Prosecco and peach purée.",
+                        "name":"Komovica",
+                        "description":"Komovica is a type of pomace brandy that is produced in the Balkans. It is distilled from fermented pomace—solid components of grapes that are left after the juice has been pressed. The resulting drink is a potent, clear, and colorless spirit.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Campari Soda",
-                        "description":"One of the simplest Italian cocktails but extremely popular nonetheless, Campari Soda is made by mixing Campari liqueur with sparkling soda water.",
+                        "name":"Blatina",
+                        "description":"Blatina is a red grape variety that is exclusively cultivated in Herzegovina. The wines produced from Blatina are usually full-bodied, dense, and concentrated with earthy and fruity notes that are often accompanied by well-balanced minerality.",
                         "offers":{
                             "price":"6.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Cappucino",
-                        "description":"A cappuccino is a single espresso shot served with hot milk and topped with foamed milk and a dash of cocoa powder.",
+                        "name":"Žilavka",
+                        "description":"Žilavka is the best-known white grape variety from Herzegovina. It is a light-skinned grape that produces wines with high alcohol content and bright acidity. Although it is not exclusive to the region, Žilavka is strongly associated with Herzegovina, and it is believed to be a native Herzegovinian grape.",
                         "offers":{
                             "price":"3.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Espresso",
-                        "description":"Coffee is another staple of Italian drinking culture. Starting the day with a coffee and pastry in a charming local cafe is a must while in Italy.",
+                        "name":"Dunjevača",
+                        "description":"Dunjevača (rakija od dunje) is a clear and colorless spirit distilled from ripe fermented quinces. This fruit brandy—known as rakija—is one of the most popular spirits in the Balkans and is usually of excellent quality.",
                         "offers":{
                             "price":"3.27",
                             "priceCurrency":"USD"
