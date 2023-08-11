@@ -2698,80 +2698,80 @@
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
-                        "name":"Ribollita",
-                        "description":"Tuscan bread soup, panade, porridge, or potage made with bread and vegetables, often from leftovers.",
+                        "name":"Cabbage and Tomato Salad",
+                        "description":"Fresh shredded cabbage and tomato salad with a lemon vinaigrette.",
                         "offers":{
                             "price":"11.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Stracciatella",
-                        "description":"Italian soup consisting of meat broth and small shreds of an egg-based mixture, prepared by drizzling the mixture into boiling broth and stirring.",
+                        "name":"Shopska Salad",
+                        "description":"Phenomenal Shopska salad is a cucumber, tomato, and onion salad (plus peppers and cheese) you’ll love.",
                         "offers":{
                             "price":"13.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Sicilian Meatball Soup",
-                        "description":"Flavored with Parmesan and garlic and studded with raisins, scrumptious Sicilian meatballs turn vegetable soup into an irresistible meal.",
+                        "name":"Roasted Red Pepper And Garlic Salad With Olive Oil",
+                        "description":"Roasted red pepper salad, sprinkled with garlic and olive oil, is one elegant salad.",
                         "offers":{
                             "price":"11.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Pappa al Pomodoro",
-                        "description":"Thick Tuscan bread soup prepared with fresh tomatoes, bread, olive oil, garlic, basil, and various other fresh ingredients.",
+                        "name":"Russian Salad or Salad Olivier",
+                        "description":"Russian salad or Salad Olivier (ruska salata, insalata Russa) is a holiday staple in Balkan homes. Delicious, rich, and filling, this salad is at once an appetizer, side dish, and the main course.",
                         "offers":{
                             "price":"14.44",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Ligurian Seafood Soup",
-                        "description":"This gorgeous dish of layered shellfish and seafood is based on a recipe that sommelier Richard Betts found in a 1995 issue of F&W.",
+                        "name":"Turšija",
+                        "description":"Fermented vegetables that includes: yellow bell pepper tomatoes, green tomatoes, cabbage, carrots, cucumbers, celery root, peppercorn.",
                         "offers":{
                             "price":"13.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Summer Farro Salad",
-                        "description":"Farro salad is packed with summer veggies and is tossed in a simple but high-impact tomato-balsamic vinaigrette.",
+                        "name":"Beef Noodle Vegetable Soup",
+                        "description":"Beef noodle vegetable soup is an old fashioned soup everyone in the family loves.",
                         "offers":{
                             "price":"10.10",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Shaved Raw Asparagus with Parmesan Dressing",
-                        "description":"Shaved asparagus salad with arugula, pistachios, Parmesan cheese, avocado, and a homemade lemon salad dressing.",
+                        "name":"Bosnian Bey's Soup",
+                        "description":"Bey's soup is a dish you'll have a hard time forgetting. Luckily this okra delicacy - simmered in a chicken based broth, finished off with a simple roux, then sprinkled with lemon juice as the last touch - is here for your consumption.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Big Italian Salad",
-                        "description":"Part green salad, part antipasto salad, this recipe combines lettuce, celery, onion, peperoncini, olives, and cherry tomatoes",
+                        "name":"Mushroom Soup",
+                        "description":"Thick, hearty mushroom soup from Herzegovina. A nice vegetarian option from the Balkans. Serve with red wine and toasted garlic bread",
                         "offers":{
                             "price":"12.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Giardiniera with Ham and White Beans",
-                        "description":"This salad is a nod to the pickled vegetables (giardiniera) in the Gramercy Tavern salad. Grace Parisi quickly soaks baby cauliflower in vinegar and sugar, then combines it with snap peas, white beans, ham and sunflower seeds to create a unique main-course dish.",
+                        "name":"Veal Stew with Potatoes",
+                        "description":"Veal Stew with Potatoes is inspired by delicious stews one can find in a Balkan kafana.",
                         "offers":{
                             "price":"13.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Lemony Chickpea Salad",
-                        "description":"This chickpea salad is accented with lemon, garlic, rosemary, and oregano, and gets a kick of flavor from quick-pickled onion and chopped peperoncini.",
+                        "name":"Simple Potato Soup",
+                        "description":"Chunky, thick, and brothy, it overflows with potatoes and carrots. Made with vegetable, or chicken broth, this soup is quick and yummy!",
                         "offers":{
                             "price":"11.27",
                             "priceCurrency":"USD"
