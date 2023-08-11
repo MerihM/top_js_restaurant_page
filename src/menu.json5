@@ -1402,80 +1402,80 @@
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
-                        "name":"Ribollita",
-                        "description":"Tuscan bread soup, panade, porridge, or potage made with bread and vegetables, often from leftovers.",
+                        "name":"Soupe à l’oignon",
+                        "description":"Soupe à l’oignon is an onion-based soup “au gratin” and a real tradition in French cuisine.",
                         "offers":{
                             "price":"11.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Stracciatella",
-                        "description":"Italian soup consisting of meat broth and small shreds of an egg-based mixture, prepared by drizzling the mixture into boiling broth and stirring.",
+                        "name":"Bisque",
+                        "description":"Bisqueis a lovely fish soup with lots of flavor. It’s traditionally made with a base of seafood – mostly lobster or crab – along with white wine, herbs, and spices.",
                         "offers":{
                             "price":"13.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Sicilian Meatball Soup",
-                        "description":"Flavored with Parmesan and garlic and studded with raisins, scrumptious Sicilian meatballs turn vegetable soup into an irresistible meal.",
+                        "name":"French Onion Soup",
+                        "description":"Whether it’s a standalone meal or paired with the main course, you’ll love this elevated French onion soup.",
                         "offers":{
                             "price":"11.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Pappa al Pomodoro",
-                        "description":"Thick Tuscan bread soup prepared with fresh tomatoes, bread, olive oil, garlic, basil, and various other fresh ingredients.",
+                        "name":"Soup au Champignons",
+                        "description":"While the name translated means “mushroom soup,” I wouldn’t blame you for calling this the soup of champions.",
                         "offers":{
                             "price":"14.44",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Ligurian Seafood Soup",
-                        "description":"This gorgeous dish of layered shellfish and seafood is based on a recipe that sommelier Richard Betts found in a 1995 issue of F&W.",
+                        "name":"Soup au Champignons",
+                        "description":"While the name translated means “mushroom soup,” I wouldn’t blame you for calling this the soup of champions.",
                         "offers":{
                             "price":"13.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Summer Farro Salad",
-                        "description":"Farro salad is packed with summer veggies and is tossed in a simple but high-impact tomato-balsamic vinaigrette.",
+                        "name":"Salade Niçoise",
+                        "description":"This salad is a typical French dish from the city of Nice.",
                         "offers":{
                             "price":"10.10",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Shaved Raw Asparagus with Parmesan Dressing",
-                        "description":"Shaved asparagus salad with arugula, pistachios, Parmesan cheese, avocado, and a homemade lemon salad dressing.",
+                        "name":"French Bistro Salad",
+                        "description":"French recipes are all about the balance of flavor, texture, and weight. This is why this salad is so popular.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Big Italian Salad",
-                        "description":"Part green salad, part antipasto salad, this recipe combines lettuce, celery, onion, peperoncini, olives, and cherry tomatoes",
+                        "name":"French Chopped Salad",
+                        "description":"This salad is super healthy and very filling. It’s a delicious side dish, but it could work as a light meal on its own",
                         "offers":{
                             "price":"12.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Giardiniera with Ham and White Beans",
-                        "description":"This salad is a nod to the pickled vegetables (giardiniera) in the Gramercy Tavern salad. Grace Parisi quickly soaks baby cauliflower in vinegar and sugar, then combines it with snap peas, white beans, ham and sunflower seeds to create a unique main-course dish.",
+                        "name":"French Carrot Salad",
+                        "description":"'Quoi de neuf, Doc?' This is a salad that Bugs Bunny would go crazy for. It’s literally just carrots with a dressing and some herbs.",
                         "offers":{
                             "price":"13.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Lemony Chickpea Salad",
-                        "description":"This chickpea salad is accented with lemon, garlic, rosemary, and oregano, and gets a kick of flavor from quick-pickled onion and chopped peperoncini.",
+                        "name":"French Lentil Salad with Goat Cheese",
+                        "description":"If you want something light, tasty, and filling this is the meal for you!",
                         "offers":{
                             "price":"11.27",
                             "priceCurrency":"USD"
