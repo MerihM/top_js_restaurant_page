@@ -1660,80 +1660,80 @@
                   "description":"Assortment of italian alcoholic beverages",
                   "MenuItems":{
                     "item1":{
-                        "name":"Barolo",
-                        "description":"From the Piedmont region of Italy, Barolo is a full-bodied red wine with an alcohol level at the higher end.",
+                        "name":"Kir",
+                        "description":"Kir is a cocktail which is especially appreciated in France. It is made of blackcurrant liqueur and white wine from Burgandy.",
                         "offers":{
                             "price":"18.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Chianti",
-                        "description":"Characteristically served in a bulb shaped bottle with a straw case, Chianti is a red wine from Tuscany’s Chianti region.",
+                        "name":"Pastis",
+                        "description":"This is a famous alcohol in the South of France, pastis is made of aniseed and licorice.",
                         "offers":{
                             "price":"15.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Pinot Grigio",
-                        "description":"Pinot Grigio has become a staple white wine around the globe due to how drinkable it is. A zesty wine, it’s named after the grape its made from.",
+                        "name":"Cognac",
+                        "description":"Cognac is popular and loved by the French people, it can be drunk on its own or mixed with a bit of Schweppes.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Soave",
-                        "description":"From the Veneto region, near Verona, Soave is a dry white wine.",
+                        "name":"Absinthe",
+                        "description":"Absinthe is made from an aniseed-flavored spirit. The production, sale, and use of absinthe was forbidden in France for almost 100 years.The reason was that this alcohol can reach the 90° proof mark.",
                         "offers":{
                             "price":"17.24",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Prosecco",
-                        "description":"A sparkling white wine from northern Italy, Prosecco’s popularity has grown massively over the last decade.",
+                        "name":"Jacqueline",
+                        "description":"Jacqueline is a cocktail made of white wine, grenadine and pop.",
                         "offers":{
                             "price":"15.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Campari",
-                        "description":"Campari is a bitter liqueur invented in 1860 by Gaspare Campari in Novara, Italy. 150 years on, Campari is one of the most popular aperitifs in Italy and one of the best-known Italian liqueurs across the world.",
+                        "name":"Diabolo",
+                        "description":"Diabolo is another soft drink with syrup in it.This drink is popular and refreshing. Diabolo is a mix of any type of syrup with pop.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Bellini",
-                        "description":"The bellini is a sweet and fruity Italian mixed drink consisting of just two ingredients; Prosecco and peach purée.",
+                        "name":"Pop",
+                        "description":"French homemade soda is a very refreshing drink, which is usually served in spring or during summer.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Campari Soda",
-                        "description":"One of the simplest Italian cocktails but extremely popular nonetheless, Campari Soda is made by mixing Campari liqueur with sparkling soda water.",
+                        "name":"Orangina",
+                        "description":"Orangina is a sparkling drink with an orange flavor, which belongs to the company Orange Suntory France.",
                         "offers":{
                             "price":"6.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Cappucino",
-                        "description":"A cappuccino is a single espresso shot served with hot milk and topped with foamed milk and a dash of cocoa powder.",
+                        "name":"Hot Chocolate",
+                        "description":"This is a much needed, hot chocolate will always be present by your side.",
                         "offers":{
                             "price":"3.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Espresso",
-                        "description":"Coffee is another staple of Italian drinking culture. Starting the day with a coffee and pastry in a charming local cafe is a must while in Italy.",
+                        "name":"Champagne",
+                        "description":"French Champagne is a sparkling wine which owes its name to the region Champagne in the North-East of France.",
                         "offers":{
                             "price":"3.27",
                             "priceCurrency":"USD"
