@@ -1488,80 +1488,80 @@
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
-                        "name":"Spaghetti Cacio e Pepe",
-                        "description":"A pasta dish from the cuisine of the city of Rome. Cacio e pepe means "cheese and pepper" in several central Italian dialects.",
+                        "name":"Coq au Vin",
+                        "description":"Coq means 'rooster' in French and is considered a symbol of France.",
                         "offers":{
                             "price":"19.39",
                             "priceCurrency":"USD"
                         }
                     },
                     "item2":{
-                        "name":"Chicken Scarpariello",
-                        "description":"Chicken scarpariello, also known as shoemaker's chicken, is a classic Italian-American dish of chicken, sausage, vinegar, onions and peppers.",
+                        "name":"Confit de Canard",
+                        "description":"Confit de canard is an incredibly tasty culinary specialty from the southwest region of France.",
                         "offers":{
                             "price":"18.28",
                             "priceCurrency":"USD"
                         }
                     },
                     "item3":{
-                        "name":"Spaghetti with Anchovy Carbonara",
-                        "description":"Traditional carbonara consists of pasta, egg, guanciale (pork jowl), pecorino, and pepper. Using anchovies in place of the guanciale and pecorino in this recipe makes it a bit lighter but keeps that salty flavor.",
+                        "name":"Boeuf Bourguignon",
+                        "description":"Boeuf bourguignon is a traditional dish from the Burgundy region of France.",
                         "offers":{
                             "price":"17.34",
                             "priceCurrency":"USD"
                         }
                     },
                     "item4":{
-                        "name":"Smoky Pork Pappardelle",
-                        "description":"For the luscious meat sauce, pork is braises with apples and honey, which adds some unexpected sweetness.",
+                        "name":"Cassoulet",
+                        "description":"Cassoulet is a very traditional French dish originally from the southwestern part of France.",
                         "offers":{
                             "price":"18.21",
                             "priceCurrency":"USD"
                         }
                     },
                     "item5":{
-                        "name":"Tuscan-Style Spareribs with Balsamic Glaze",
-                        "description":"Generously seasoned ribs with a mix of aromatic herbs and spices and slow-roasted until tender and crisp, finished with a simple balsamic glaze.",
+                        "name":"Blanquette de Veau",
+                        "description":"It’s made by slowly cooking veal in a bouillon with carrots, leeks, and onions.",
                         "offers":{
                             "price":"19.26",
                             "priceCurrency":"USD"
                         }
                     },
                     "item6":{
-                        "name":"Sardinian Stuffed Eggplant",
-                        "description":"Eggplants from the first pick of the season (le primizie) or firm, heavy eggplants with smooth, evenly colored skin are used in this dish because of their supple texture and earthy-sweet flavor without a hint of bitterness.",
+                        "name":"Pot-au-feu",
+                        "description":"Pot-au-feu is a traditional French dish that’s best enjoyed in winter.",
                         "offers":{
                             "price":"17.33",
                             "priceCurrency":"USD"
                         }
                     },
                     "item7":{
-                        "name":"Pea and Bacon Risotto",
-                        "description":"Not one for risotto purists – this simple recipe has just a few ingredients and the stock is added all in one go. The result is creamy, comforting yet healthy.",
+                        "name":"Tapenade",
+                        "description":"An ode to Olives… à la Provençal, coming to you all the way from the south of France.",
                         "offers":{
                             "price":"17.65",
                             "priceCurrency":"USD"
                         }
                     },
                     "item8":{
-                        "name":"Braised Chicken all'Arrabbiata",
-                        "description":"All'Arrabbiata means "in an angry style" in Italian. Chicken is braised with five kinds of peppers in a wood-fired oven. Chicken is spiced with poblano and chile flakes, then braised. For extra kick, some hot pickled cherry peppers are tossed in.",
+                        "name":"Ratatouille",
+                        "description":"This thick and silky French stew of eggplant, zucchini, sweet peppers, and ripe summer tomatoes will use up your extra vegetables in one fell swoop.",
                         "offers":{
                             "price":"19.12",
                             "priceCurrency":"USD"
                         }
                     },
                     "item9":{
-                        "name":"Beef Brasato with Pappardelle and Mint",
-                        "description":"Chef braises beef shank and oxtail in red wine to make a brasato he serves with house-made mint pappardelle.",
+                        "name":"Quiche",
+                        "description":"Is a famous egg casserole from French cuisine. There are so many different varieties, but this tasty version is loaded with ham and cheese.",
                         "offers":{
                             "price":"16.34",
                             "priceCurrency":"USD"
                         }
                     },
                     "item10":{
-                        "name":"Sun-Dried Tomato and Arugula Pizza",
-                        "description":"The secret to this crispy pizza: giving the dough lots of time to rise so it's pliant enough to stretch very thin.",
+                        "name":"Bouillabaisse",
+                        "description":"This fancy and elegant stew is a combination of assorted seafood in a broth.",
                         "offers":{
                             "price":"19.84",
                             "priceCurrency":"USD"
