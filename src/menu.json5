@@ -2438,80 +2438,80 @@
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
-                        "name":"Mixed-Nut-Milk Panna Cotta",
-                        "description":"These delicate custards are a great way to showcase the subtle, nutty flavor of homemade nut milk.",
+                        "name":"Purin",
+                        "description":"Purin is the Japanese version of crème caramel. It’s rich, creamy, and impossible to resist. Melt-in-your-mouth custard is oozing with a thick caramel glaze.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Tiramisu Icebox Pie",
-                        "description":"Familiar elements of a classic tiramisu—ladyfingers, coffee, and mascarpone—and reimagined as an icebox pie. The dessert is full of playful textures and flavors, including a dense coffee mousse and salty-sweet coffee crunchies.",
+                        "name":"Coffee Jelly",
+                        "description":"Cubes of coffee-flavored jelly swimming in thick sweetened cream. The slight bitterness of coffee plus the sweetness of the cream creates the perfect balance of flavors. It’s sweet, but not too much that it’s overwhelming. That’s why it’s so addictive.",
                         "offers":{
                             "price":"12.87",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Concord Grape Granita",
-                        "description":"This icy dessert gets its sweet, tangy taste from Concord grape juice, which has three times the antioxidant power of orange and grapefruit juices.",
+                        "name":"Japanese Red Bean Cake",
+                        "description":"Manju, or red bean cakes, are small, round, steamed cakes stuffed with anko. Anko is a sweet filling made with red beans. The beans are cooked and mashed until it turns into a paste. It’s smooth but has a mild coarseness to it, which adds to its charm.",
                         "offers":{
                             "price":"11.31",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Almond Semifreddo with Caramelized Apples",
-                        "description":"Supercreamy almond semifreddo ("half-frozen") topped with warm caramelized apples.",
+                        "name":"Daifuku",
+                        "description":"Daifuku, or mochi, is a classic Japanese dessert that’s popular all over the world. Mochi is a small, sticky, round confection with a sweet filling. It gets its iconic chewy, gelatinous consistency from rice flour.",
                         "offers":{
                             "price":"12.43",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Torta Della Nonna",
-                        "description":"'Grandmother's cake' is a traditional Tuscan dessert, though everyone's nonna makes it slightly differently.",
+                        "name":"Dorayaki",
+                        "description":"'Dorayaki is a rich and filling treat made with two small pancakes stuffed with red bean paste. Since it’s heavy, the sweet sandwich is more commonly eaten as a snack, rather than a dessert.",
                         "offers":{
                             "price":"13.12",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Raspberry Jam Bomboloni",
-                        "description":"The donut holes are filled with fruit jams or chocolate ganache, then rolled in sugar and spices like anise and cardamom as soon as they come out of the frying pan.",
+                        "name":"Green Tea Mochi",
+                        "description":"Filled with either red bean paste, ice cream, or strawberry, this mochi is sweet with a subtle hint of bitterness from the matcha.",
                         "offers":{
                             "price":"12.34",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"White Peach Tart",
-                        "description":"The dough is terrific for impromptu baking, because it doesn't need to be chilled before it's rolled out.",
+                        "name":"Green Tea Ice Cream",
+                        "description":"This ice cream is subtly sweet with bitter and smoky undertones. It’s an excellent treat for those who can’t stand overly sweet and rich desserts!",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Cherries Poached in Red Wine with Mascarpone Cream",
-                        "description":"Thick mascarpone cheese mixed with honey makes a luscious topping for poached cherries.",
+                        "name":"Candied Sweet Potato",
+                        "description":"Daigaku Imo or candied sweet potatoes are a popular Japanese snack enjoyed in the fall and winter. Deep-fried sweet potatoes are coated with caramel syrup to add sweetness. Crisp skin and creamy, tender flesh covered entirely with sweet and crunchy caramel.",
                         "offers":{
                             "price":"14.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Zabaglione with Strawberries",
-                        "description":"The zabaglione is mixed with whipped cream and refrigerate.",
+                        "name":"Japanese Cheesecake",
+                        "description":"Another world-famous Japanese confection is Japanese cheesecake. Who hasn’t heard of this ultra-fluffy, airy, and jiggly cake? The secret to its iconic consistency is whipping egg whites.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Pumpkin-Gingersnap Tiramisù",
-                        "description":"Pumpkin pie meets tiramisu, with layers of pumpkin-mascarpone custard and gingersnaps brushed with Calvados syrup.",
+                        "name":"Souffle Pancakes",
+                        "description":"Souffle pancakes are another Japanese confection that rose to fame in recent years, and for good reason. Just like Japanese cake, what makes these pancakes so fluffy are egg whites.",
                         "offers":{
                             "price":"13.44",
                             "priceCurrency":"USD"
