@@ -1834,80 +1834,80 @@
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
-                        "name":"Ribollita",
-                        "description":"Tuscan bread soup, panade, porridge, or potage made with bread and vegetables, often from leftovers.",
+                        "name":"Pastele Stew",
+                        "description":"Tender pork chunks infused with classic flavors of garlic, onion, cilantro, and achiote.",
                         "offers":{
                             "price":"11.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Stracciatella",
-                        "description":"Italian soup consisting of meat broth and small shreds of an egg-based mixture, prepared by drizzling the mixture into boiling broth and stirring.",
+                        "name":"Moms Oxtail Soup",
+                        "description":"Hawaiian oxtail soup, slowly cooked to produce perfect oxtail soup with ginger, Hawaiian salt, blanched raw peanuts.",
                         "offers":{
                             "price":"13.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Sicilian Meatball Soup",
-                        "description":"Flavored with Parmesan and garlic and studded with raisins, scrumptious Sicilian meatballs turn vegetable soup into an irresistible meal.",
+                        "name":"John Cruz Beef Stew With Taro",
+                        "description":"'Momma’s in the kitchen cooking dinner real nice beef stew on the stove lomi salmon with the ice'… Some of the most recognized words on the island contemporary music scene written and sung by Na Hoku Hanohano award winner John Cruz and he brought this classic to life with the creation of his beef stew made with taro.",
                         "offers":{
                             "price":"11.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Pappa al Pomodoro",
-                        "description":"Thick Tuscan bread soup prepared with fresh tomatoes, bread, olive oil, garlic, basil, and various other fresh ingredients.",
+                        "name":"Winna Wonton/Soup",
+                        "description":"What makes this typical wonton different from most is the secret of the chicken bouillon in the jar.",
                         "offers":{
                             "price":"14.44",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Ligurian Seafood Soup",
-                        "description":"This gorgeous dish of layered shellfish and seafood is based on a recipe that sommelier Richard Betts found in a 1995 issue of F&W.",
+                        "name":"Hawaiian Macaroni Salad",
+                        "description":"Carrots, cooked macaroni, salt, pepper, and mayonnaise tossed together.The salad is a little heavy on the mayo, but that’s the secret to the creamy texture.",
                         "offers":{
                             "price":"13.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Summer Farro Salad",
-                        "description":"Farro salad is packed with summer veggies and is tossed in a simple but high-impact tomato-balsamic vinaigrette.",
+                        "name":"Hawaiian Coleslaw",
+                        "description":"Lightly sweet with a little crunch, this Hawaiian salad is a perfect pair with grilled meats, placed inside a toasted bun. It packs a citrusy flavor, too, thanks to the vinaigrette dressing, mango cubes, and pineapple bits.",
                         "offers":{
                             "price":"10.10",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Shaved Raw Asparagus with Parmesan Dressing",
-                        "description":"Shaved asparagus salad with arugula, pistachios, Parmesan cheese, avocado, and a homemade lemon salad dressing.",
+                        "name":"Tofu Arugula Salad",
+                        "description":"A nice, light salad with fresh heirloom tomatoes, lightly seared tofu tossed with arugula and a light soy sesame dressing.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Big Italian Salad",
-                        "description":"Part green salad, part antipasto salad, this recipe combines lettuce, celery, onion, peperoncini, olives, and cherry tomatoes",
+                        "name":"Warm Kale Salad",
+                        "description":"Warm kale salad is a delicious way to eat your greens! It’s a simple salad with salty Parmesan and spicy red pepper flakes, and it’s a perfect side dish for any dinner",
                         "offers":{
                             "price":"12.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Giardiniera with Ham and White Beans",
-                        "description":"This salad is a nod to the pickled vegetables (giardiniera) in the Gramercy Tavern salad. Grace Parisi quickly soaks baby cauliflower in vinegar and sugar, then combines it with snap peas, white beans, ham and sunflower seeds to create a unique main-course dish.",
+                        "name":"Hawaiian Spiced Potato Salad",
+                        "description":"Try this kicked up version of potato salad spiced with Hawaiian seasoning rub and passion fruit wasabi mustard – products made in Hawaii.",
                         "offers":{
                             "price":"13.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Lemony Chickpea Salad",
-                        "description":"This chickpea salad is accented with lemon, garlic, rosemary, and oregano, and gets a kick of flavor from quick-pickled onion and chopped peperoncini.",
+                        "name":"Hooulu Aina Salad w/Mango Dressing",
+                        "description":"fresh, local and heathy hooulu aina salad with fresh mango dressing.",
                         "offers":{
                             "price":"11.27",
                             "priceCurrency":"USD"
