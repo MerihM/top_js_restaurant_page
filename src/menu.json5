@@ -2784,80 +2784,80 @@
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
-                        "name":"Spaghetti Cacio e Pepe",
-                        "description":"A pasta dish from the cuisine of the city of Rome. Cacio e pepe means "cheese and pepper" in several central Italian dialects.",
+                        "name":"Mini Ćevap",
+                        "description":"Easy meat sauce recipe coming to us from Bosnia. Also known as mini ćevap (not to be confused with traditional ćevap sausages) this diced beef sauce is perfect for pasta, polenta and more.",
                         "offers":{
                             "price":"19.39",
                             "priceCurrency":"USD"
                         }
                     },
                     "item2":{
-                        "name":"Chicken Scarpariello",
-                        "description":"Chicken scarpariello, also known as shoemaker's chicken, is a classic Italian-American dish of chicken, sausage, vinegar, onions and peppers.",
+                        "name":"Ćevapi",
+                        "description":"Ćevapi is among the most common and loved dishes across the Balkan peninsula and Turkey. It is grilled sticks of minced meat, usually lamb or beef, and a variety of kebab at its best.",
                         "offers":{
                             "price":"18.28",
                             "priceCurrency":"USD"
                         }
                     },
                     "item3":{
-                        "name":"Spaghetti with Anchovy Carbonara",
-                        "description":"Traditional carbonara consists of pasta, egg, guanciale (pork jowl), pecorino, and pepper. Using anchovies in place of the guanciale and pecorino in this recipe makes it a bit lighter but keeps that salty flavor.",
+                        "name":"Veal Shank Roast (Teleća Koljenica)",
+                        "description":"Soft, succulent fore shank meat has a deep, satisfying, hearty flavor you’ll want to eat for days in a row.",
                         "offers":{
                             "price":"17.34",
                             "priceCurrency":"USD"
                         }
                     },
                     "item4":{
-                        "name":"Smoky Pork Pappardelle",
-                        "description":"For the luscious meat sauce, pork is braises with apples and honey, which adds some unexpected sweetness.",
+                        "name":"Đuveč",
+                        "description":"Balkan ratatouille is an upgrade on the regional stir fry satarash (sataraš). Both dishes depend on veggies sweating and softening.",
                         "offers":{
                             "price":"18.21",
                             "priceCurrency":"USD"
                         }
                     },
                     "item5":{
-                        "name":"Tuscan-Style Spareribs with Balsamic Glaze",
-                        "description":"Generously seasoned ribs with a mix of aromatic herbs and spices and slow-roasted until tender and crisp, finished with a simple balsamic glaze.",
+                        "name":"Bamija",
+                        "description":"Bamija isn't one of the well-known regional okra recipes. Instead, it's a delicacy usually found on Eid or Ramadan menus.",
                         "offers":{
                             "price":"19.26",
                             "priceCurrency":"USD"
                         }
                     },
                     "item6":{
-                        "name":"Sardinian Stuffed Eggplant",
-                        "description":"Eggplants from the first pick of the season (le primizie) or firm, heavy eggplants with smooth, evenly colored skin are used in this dish because of their supple texture and earthy-sweet flavor without a hint of bitterness.",
+                        "name":"Pasulj or Grah",
+                        "description":"The best thing about this dish is that you can adjust the ingredients freely and it'll still taste unbelivably good.",
                         "offers":{
                             "price":"17.33",
                             "priceCurrency":"USD"
                         }
                     },
                     "item7":{
-                        "name":"Pea and Bacon Risotto",
-                        "description":"Not one for risotto purists – this simple recipe has just a few ingredients and the stock is added all in one go. The result is creamy, comforting yet healthy.",
+                        "name":"Sarma",
+                        "description":"Sarma (traditional stuffed sour cabbage rolls), is possibly the best Balkan dish. Think tender, smoked, and ground meats mixed with rice and seasonings, lovingly wrapped in fermented cabbage, and then simmered for hours.",
                         "offers":{
                             "price":"17.65",
                             "priceCurrency":"USD"
                         }
                     },
                     "item8":{
-                        "name":"Braised Chicken all'Arrabbiata",
-                        "description":"All'Arrabbiata means "in an angry style" in Italian. Chicken is braised with five kinds of peppers in a wood-fired oven. Chicken is spiced with poblano and chile flakes, then braised. For extra kick, some hot pickled cherry peppers are tossed in.",
+                        "name":"Ground Beef Potato Moussaka Casserole",
+                        "description":"This dish is truly a uniting meal, and it’s made the same way in Bosnia, Croatia, Serbia, and Macedonia too.",
                         "offers":{
                             "price":"19.12",
                             "priceCurrency":"USD"
                         }
                     },
                     "item9":{
-                        "name":"Beef Brasato with Pappardelle and Mint",
-                        "description":"Chef braises beef shank and oxtail in red wine to make a brasato he serves with house-made mint pappardelle.",
+                        "name":"Old Fashioned Goulash with Beef and Mushrooms",
+                        "description":"Old fashioned goulash with beef and mushrooms the way it’s done in the Balkans and Eastern Europe.",
                         "offers":{
                             "price":"16.34",
                             "priceCurrency":"USD"
                         }
                     },
                     "item10":{
-                        "name":"Sun-Dried Tomato and Arugula Pizza",
-                        "description":"The secret to this crispy pizza: giving the dough lots of time to rise so it's pliant enough to stretch very thin.",
+                        "name":"Burek",
+                        "description":"Burek is a mouth-watering Balkan phyllo dough pie with a filling.",
                         "offers":{
                             "price":"19.84",
                             "priceCurrency":"USD"
