@@ -1574,80 +1574,80 @@
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
-                        "name":"Mixed-Nut-Milk Panna Cotta",
-                        "description":"These delicate custards are a great way to showcase the subtle, nutty flavor of homemade nut milk.",
+                        "name":"Croissant",
+                        "description":"The croissant is famous worldwide. It’s one of the most iconic French pastries and is often used as a symbol of the French love for food and the culinary arts.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Tiramisu Icebox Pie",
-                        "description":"Familiar elements of a classic tiramisu—ladyfingers, coffee, and mascarpone—and reimagined as an icebox pie. The dessert is full of playful textures and flavors, including a dense coffee mousse and salty-sweet coffee crunchies.",
+                        "name":"Crêpes",
+                        "description":"Crêpes or flat pancakes are originally from a specific region in the western part of France called Brittany.",
                         "offers":{
                             "price":"12.87",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Concord Grape Granita",
-                        "description":"This icy dessert gets its sweet, tangy taste from Concord grape juice, which has three times the antioxidant power of orange and grapefruit juices.",
+                        "name":"Macarons",
+                        "description":"Like crêpes and eclairs, macarons are among the most famous traditional desserts in France.",
                         "offers":{
                             "price":"11.31",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Almond Semifreddo with Caramelized Apples",
-                        "description":"Supercreamy almond semifreddo ("half-frozen") topped with warm caramelized apples.",
+                        "name":"Mille-Feuille",
+                        "description":"Like macarons, mille-feuille is also a chic and trendy type of French dessert. It used to be called Napoleon so you can imagine how nice it needs to look!",
                         "offers":{
                             "price":"12.43",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Torta Della Nonna",
-                        "description":"'Grandmother's cake' is a traditional Tuscan dessert, though everyone's nonna makes it slightly differently.",
+                        "name":"Mousse au Chocolat",
+                        "description":"Airy, soft, and super chocolatey. Those are exactly the sensations we want when we tuck into the perfect glass of mousse au chocolat or French chocolate mousse.",
                         "offers":{
                             "price":"13.12",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Raspberry Jam Bomboloni",
-                        "description":"The donut holes are filled with fruit jams or chocolate ganache, then rolled in sugar and spices like anise and cardamom as soon as they come out of the frying pan.",
+                        "name":"Crème Brûlée",
+                        "description":"If you like eating dessert, then you will love crème brûlée.This is not just a simple custard. It’s made with vanilla custard that’s topped with sugar and then grilled in an oven or burnt with a torch.",
                         "offers":{
                             "price":"12.34",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"White Peach Tart",
-                        "description":"The dough is terrific for impromptu baking, because it doesn't need to be chilled before it's rolled out.",
+                        "name":"Charlotte",
+                        "description":"A charlotte is a type of bread pudding that can be served hot or cold. It is also referred to as an 'icebox cake'.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Cherries Poached in Red Wine with Mascarpone Cream",
-                        "description":"Thick mascarpone cheese mixed with honey makes a luscious topping for poached cherries.",
+                        "name":"Éclair",
+                        "description":"An éclair is a pastry made with choux dough filled with a cream and topped with a flavored icing.",
                         "offers":{
                             "price":"14.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Zabaglione with Strawberries",
-                        "description":"The zabaglione is mixed with whipped cream and refrigerate.",
+                        "name":"Mont Blanc",
+                        "description":"A Mont Blanc (or Mont-Blanc aux marrons) is a dessert of sweetened chestnut purée in the form of vermicelli, topped with whipped cream.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Pumpkin-Gingersnap Tiramisù",
-                        "description":"Pumpkin pie meets tiramisu, with layers of pumpkin-mascarpone custard and gingersnaps brushed with Calvados syrup.",
+                        "name":"Opera cake",
+                        "description":"Opera cake is a French cake. It is made with layers of almond sponge cake soaked in coffee syrup, layered with ganache and coffee French buttercream, and covered in a chocolate glaze.",
                         "offers":{
                             "price":"13.44",
                             "priceCurrency":"USD"
