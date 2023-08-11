@@ -2524,80 +2524,80 @@
                   "description":"Assortment of italian alcoholic beverages",
                   "MenuItems":{
                     "item1":{
-                        "name":"Barolo",
-                        "description":"From the Piedmont region of Italy, Barolo is a full-bodied red wine with an alcohol level at the higher end.",
+                        "name":"Matcha",
+                        "description":"Matcha is green tea powder often whisked into a frothy brew with a delicately balanced sweet and bitter flavor profile. While matcha tea is the traditional way to go, matcha powder is often used to flavor sweets such as cookies, cakes, and even lattes.",
                         "offers":{
                             "price":"18.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Chianti",
-                        "description":"Characteristically served in a bulb shaped bottle with a straw case, Chianti is a red wine from Tuscany’s Chianti region.",
+                        "name":"Uroncha",
+                        "description":"Uroncha, the Japanese way to write "oolong tea," is one of Japan's most widely consumed beverages. Although green tea, black tea, and uroncha are all made from the same tea leaves, the difference in the oxidation process gives uroncha strong floral notes, making it an excellent palate cleanser.",
                         "offers":{
                             "price":"15.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Pinot Grigio",
-                        "description":"Pinot Grigio has become a staple white wine around the globe due to how drinkable it is. A zesty wine, it’s named after the grape its made from.",
+                        "name":"Kombu-cha",
+                        "description":"While in recent years, the fermented drink kombucha has been all the rage overseas, kombu-cha (literally "kelp tea")  is a simple Japanese tea made from just dried kelp and hot water boasting centuries of history.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Soave",
-                        "description":"From the Veneto region, near Verona, Soave is a dry white wine.",
+                        "name":"Yakult",
+                        "description":"It is often said that Yakult is the Japanese drink that conquered the world. First introduced in 1935, Yakult is a probiotic yogurt drink that not only tastes fantastic but is extremely good for you.",
                         "offers":{
                             "price":"17.24",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Prosecco",
-                        "description":"A sparkling white wine from northern Italy, Prosecco’s popularity has grown massively over the last decade.",
+                        "name":"Sake",
+                        "description":"Made from fermented rice, sake has been enjoyed in Japan for thousands of years, and today there are over 1,500 sake breweries all across the country.",
                         "offers":{
                             "price":"15.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Campari",
-                        "description":"Campari is a bitter liqueur invented in 1860 by Gaspare Campari in Novara, Italy. 150 years on, Campari is one of the most popular aperitifs in Italy and one of the best-known Italian liqueurs across the world.",
+                        "name":"Shochu",
+                        "description":"While fairly similar to sake in the initial fermentation process, shochu is a distilled alcohol similar to vodka traditionally made from ingredients like rice, barley, sweet potatoes, or sugar cane.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Bellini",
-                        "description":"The bellini is a sweet and fruity Italian mixed drink consisting of just two ingredients; Prosecco and peach purée.",
+                        "name":"Umeshu",
+                        "description":"For those without a stomach for hard liquor, umeshu is a far more palatable option than other traditional Japanese alcohols. Umeshu is a syrupy plum wine with a sweet or sour sparkle.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Campari Soda",
-                        "description":"One of the simplest Italian cocktails but extremely popular nonetheless, Campari Soda is made by mixing Campari liqueur with sparkling soda water.",
+                        "name":"Amazake",
+                        "description":"Amazake is a low-alcohol variant of sake with a thick, sweet, and milky texture similar to oatmeal. Fermented grains of rice are left unfiltered, making it chunky and filling, while the alcohol content is typically so low that oftentimes even children will be given a glass.",
                         "offers":{
                             "price":"6.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Cappucino",
-                        "description":"A cappuccino is a single espresso shot served with hot milk and topped with foamed milk and a dash of cocoa powder.",
+                        "name":"Awamori",
+                        "description":"Awamori is the poster child drink of Okinawa and one of the most unique alcoholic beverages you'll ever try. The oldest distilled drink in Japan, the awamori recipe has supposedly remained unchanged for over 500 years.",
                         "offers":{
                             "price":"3.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Espresso",
-                        "description":"Coffee is another staple of Italian drinking culture. Starting the day with a coffee and pastry in a charming local cafe is a must while in Italy.",
+                        "name":"Momoshu",
+                        "description":"Momoshu is peach wine and is a much more pleasant drink for those who can't stand the taste of alcohol. You can relish all the freshness of a sweet summer peach alongside additional nutty or herbal tones while avoiding the harsh taste of liquor!",
                         "offers":{
                             "price":"3.27",
                             "priceCurrency":"USD"
