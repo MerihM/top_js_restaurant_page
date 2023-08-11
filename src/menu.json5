@@ -2006,80 +2006,80 @@
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
-                        "name":"Mixed-Nut-Milk Panna Cotta",
-                        "description":"These delicate custards are a great way to showcase the subtle, nutty flavor of homemade nut milk.",
+                        "name":"Passion Fruit Bars",
+                        "description":"One of Hawaii’s most favorite flavors comes from passion fruit. This yellow fruit, also known as lilikoi, is one of the most abundant tropical fruits on the islands.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Tiramisu Icebox Pie",
-                        "description":"Familiar elements of a classic tiramisu—ladyfingers, coffee, and mascarpone—and reimagined as an icebox pie. The dessert is full of playful textures and flavors, including a dense coffee mousse and salty-sweet coffee crunchies.",
+                        "name":"Hawaiian Fruit Salad",
+                        "description":"Colorful with mixed fruits and presented in a pineapple boat, it’s a real eye-catcher and crowd-pleaser! If you love tropical, juicy fruits, you’ll find them here in this salad.",
                         "offers":{
                             "price":"12.87",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Concord Grape Granita",
-                        "description":"This icy dessert gets its sweet, tangy taste from Concord grape juice, which has three times the antioxidant power of orange and grapefruit juices.",
+                        "name":"Passion fruit Donuts",
+                        "description":"These crisp donuts are oozing with creamy passion fruit curd, and these pastries will bring a uniquely sweet taste to your table. Coated with powdered sugar, these humble-looking donuts are surprisingly light and melt right in your mouth.",
                         "offers":{
                             "price":"11.31",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Almond Semifreddo with Caramelized Apples",
-                        "description":"Supercreamy almond semifreddo ("half-frozen") topped with warm caramelized apples.",
+                        "name":"Hawaiian Rolls",
+                        "description":"Hawaiian rolls are slightly sweet, fluffy, light, and chewy. The pineapple juice brings the Hawaiian flavor, while the honey enhances the overall sweetness.",
                         "offers":{
                             "price":"12.43",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Torta Della Nonna",
-                        "description":"'Grandmother's cake' is a traditional Tuscan dessert, though everyone's nonna makes it slightly differently.",
+                        "name":"Hawaiian Rice Pudding",
+                        "description":"This rice pudding is infused with flavors of cream cheese, pineapple, and vanilla. The combination of pineapple sauce and creamy cheese is surprisingly delicious.",
                         "offers":{
                             "price":"13.12",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Raspberry Jam Bomboloni",
-                        "description":"The donut holes are filled with fruit jams or chocolate ganache, then rolled in sugar and spices like anise and cardamom as soon as they come out of the frying pan.",
+                        "name":"White Chocolate Macadamia Nut Cookies",
+                        "description":"Macadamia nuts are a local treasure in Hawaii, so the people there definitely know how to eat them the right way!",
                         "offers":{
                             "price":"12.34",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"White Peach Tart",
-                        "description":"The dough is terrific for impromptu baking, because it doesn't need to be chilled before it's rolled out.",
+                        "name":"Hawaiian Butter Mochi",
+                        "description":"Butter mochi is a local favorite that uses glutinous rice flour and coconut milk as its main ingredients.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Cherries Poached in Red Wine with Mascarpone Cream",
-                        "description":"Thick mascarpone cheese mixed with honey makes a luscious topping for poached cherries.",
+                        "name":"Chocolate Haupia Pie",
+                        "description":"Haupia is a thickened coconut layer similar to pudding or custard. Set with cornstarch, it has a silky smooth, gelatin-like texture. The second filling is a mixture of this coconut haupia and chocolate chips.",
                         "offers":{
                             "price":"14.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Zabaglione with Strawberries",
-                        "description":"The zabaglione is mixed with whipped cream and refrigerate.",
+                        "name":"Hawaiian Dream Cake",
+                        "description":"The crushed pineapple in the faux-cheesecake layer is a taste of the islands, too! The cake will be wonderfully moist and tender, and I love the thick pudding.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Pumpkin-Gingersnap Tiramisù",
-                        "description":"Pumpkin pie meets tiramisu, with layers of pumpkin-mascarpone custard and gingersnaps brushed with Calvados syrup.",
+                        "name":"Instant Pot Kulolo",
+                        "description":"Kulolo is a pudding-like fudge made using taro. It’s warm, chewy, and typically needs to be baked or steamed for hours before it’s ready.",
                         "offers":{
                             "price":"13.44",
                             "priceCurrency":"USD"
