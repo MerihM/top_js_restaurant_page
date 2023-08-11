@@ -2266,80 +2266,80 @@
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
-                        "name":"Ribollita",
-                        "description":"Tuscan bread soup, panade, porridge, or potage made with bread and vegetables, often from leftovers.",
+                        "name":"Okinawa Soba",
+                        "description":"If you’re looking for a delicious, umami-laden meal, this Okinawa soba is the answer. It’s salty, sour, meaty, and utterly fantastic. The pork dashi broth is intensely rich. The soba noodles are chewy and well-flavored. It’s topped with sweet-savory pork belly, slices of fish cake, green onions, and pickled ginger.",
                         "offers":{
                             "price":"11.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Stracciatella",
-                        "description":"Italian soup consisting of meat broth and small shreds of an egg-based mixture, prepared by drizzling the mixture into boiling broth and stirring.",
+                        "name":"Sukiyaki",
+                        "description":"Sukiyaki is a type of Japanese hot pot soup. And like any other hot pot meal, sukiyaki is an event. This soup features beef, mushrooms, tofu, cabbage, and other veggies.",
                         "offers":{
                             "price":"13.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Sicilian Meatball Soup",
-                        "description":"Flavored with Parmesan and garlic and studded with raisins, scrumptious Sicilian meatballs turn vegetable soup into an irresistible meal.",
+                        "name":"Miso Soup",
+                        "description":"Miso is delicious and nutritious, and it’s integral to Japanese soups. The best part is that it’s super customizable. Tasty base is made of miso paste, dashi, and veggies.",
                         "offers":{
                             "price":"11.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Pappa al Pomodoro",
-                        "description":"Thick Tuscan bread soup prepared with fresh tomatoes, bread, olive oil, garlic, basil, and various other fresh ingredients.",
+                        "name":"Kenchinjiru",
+                        "description":"The soup is made with a simple mushroom broth and lots of hearty root vegetables. This soup recipe adds tofu for protein and lots of spices for extra heat and deliciousness.",
                         "offers":{
                             "price":"14.44",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Ligurian Seafood Soup",
-                        "description":"This gorgeous dish of layered shellfish and seafood is based on a recipe that sommelier Richard Betts found in a 1995 issue of F&W.",
+                        "name":"Japanese Chicken Soup",
+                        "description":"This soup is simple but definitely good for the soul. And it’s literally just chicken soup. It features a broth of dashi, sake, and soy sauce.",
                         "offers":{
                             "price":"13.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Summer Farro Salad",
-                        "description":"Farro salad is packed with summer veggies and is tossed in a simple but high-impact tomato-balsamic vinaigrette.",
+                        "name":"Japanese Spinach Salad",
+                        "description":"Dark leafy spinach is a nutritional powerhouse. Packed with folate, vitamin C, and iron, it’s a great base for salads like this one. Spinach is blanched until tender and then dressed with a nutty sesame sauce. It’s topped with roasted sesame seeds for extra crunch.",
                         "offers":{
                             "price":"10.10",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Shaved Raw Asparagus with Parmesan Dressing",
-                        "description":"Shaved asparagus salad with arugula, pistachios, Parmesan cheese, avocado, and a homemade lemon salad dressing.",
+                        "name":"Japanese Mushroom Salad",
+                        "description":"This meal soaks mushrooms in a tangy blend of rice vinegar, mirin, tamari, and sugar. Hanging out in this saucy mix deepens their earthy flavor and subtle sweetness.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Big Italian Salad",
-                        "description":"Part green salad, part antipasto salad, this recipe combines lettuce, celery, onion, peperoncini, olives, and cherry tomatoes",
+                        "name":"Daikon Salad",
+                        "description":"Daikon is a mild Japanese white radish. It’s a common addition to many meals, prized for its firm texture and subtle taste. Here, daikon is shredded with mustard greens and drizzled with a tangy plum dressing",
                         "offers":{
                             "price":"12.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Giardiniera with Ham and White Beans",
-                        "description":"This salad is a nod to the pickled vegetables (giardiniera) in the Gramercy Tavern salad. Grace Parisi quickly soaks baby cauliflower in vinegar and sugar, then combines it with snap peas, white beans, ham and sunflower seeds to create a unique main-course dish.",
+                        "name":"Soba Noodle Salad",
+                        "description":"Soba noodles are thin buckwheat noodles with a subtle nutty taste. They form the base of this light and tangy salad. The dressing is made from fresh ginger root, zesty lime, and maple syrup. It’s sharp, sticky, and just the right amount of sweet.",
                         "offers":{
                             "price":"13.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Lemony Chickpea Salad",
-                        "description":"This chickpea salad is accented with lemon, garlic, rosemary, and oregano, and gets a kick of flavor from quick-pickled onion and chopped peperoncini.",
+                        "name":"Tomato Myoga Salad",
+                        "description":"Chopped tomatoes are dressed in a simple vinaigrette made of sesame oil, rice vinegar, soy sauce, and toasted sesame seeds.",
                         "offers":{
                             "price":"11.27",
                             "priceCurrency":"USD"
