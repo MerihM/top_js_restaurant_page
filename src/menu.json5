@@ -2870,80 +2870,80 @@
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
-                        "name":"Mixed-Nut-Milk Panna Cotta",
-                        "description":"These delicate custards are a great way to showcase the subtle, nutty flavor of homemade nut milk.",
+                        "name":"Vasina Torta",
+                        "description":"Dark chocolate orange cake with meringue and ganache, also known as Vaso’s cake or Vaso’s torte (Vasina torta) is the best Serbian traditional cake.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Tiramisu Icebox Pie",
-                        "description":"Familiar elements of a classic tiramisu—ladyfingers, coffee, and mascarpone—and reimagined as an icebox pie. The dessert is full of playful textures and flavors, including a dense coffee mousse and salty-sweet coffee crunchies.",
+                        "name":"Bajadera",
+                        "description":"Bajadera is well known in the area. It's one of the favorite regional candies.",
                         "offers":{
                             "price":"12.87",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Concord Grape Granita",
-                        "description":"This icy dessert gets its sweet, tangy taste from Concord grape juice, which has three times the antioxidant power of orange and grapefruit juices.",
+                        "name":"Knedle",
+                        "description":"Plums encased in a potato based dumpling dough, boiled and breaded. An old Balkan delicacy.",
                         "offers":{
                             "price":"11.31",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Almond Semifreddo with Caramelized Apples",
-                        "description":"Supercreamy almond semifreddo ("half-frozen") topped with warm caramelized apples.",
+                        "name":"Sutlijaš",
+                        "description":"Sticky rice: rice cooked in milk and sugar. A dish as ordinary, and as extra-ordinary as vanilla ice-cream.",
                         "offers":{
                             "price":"12.43",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Torta Della Nonna",
-                        "description":"'Grandmother's cake' is a traditional Tuscan dessert, though everyone's nonna makes it slightly differently.",
+                        "name":"Baklava",
+                        "description":"Baklava is the midcentury modern of baklavas; its value is its simplicity. Baklava at its core is a strong sweet meal.",
                         "offers":{
                             "price":"13.12",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Raspberry Jam Bomboloni",
-                        "description":"The donut holes are filled with fruit jams or chocolate ganache, then rolled in sugar and spices like anise and cardamom as soon as they come out of the frying pan.",
+                        "name":"Čupavci",
+                        "description":"What Lamingtons are to the English speaking world, are Coconut Chocolate Dessert Squares aka Scruffies (čupavci) to the people in Balkans.",
                         "offers":{
                             "price":"12.34",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"White Peach Tart",
-                        "description":"The dough is terrific for impromptu baking, because it doesn't need to be chilled before it's rolled out.",
+                        "name":"Wafer Cake (Oblatne, Oblande)",
+                        "description":"No-bake wafer cake (oblatne, oblande) is a MOUTH-WATERING dessert made with tort wafers filled with a combination of chocolate, walnuts, and ground biscuit cookies.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Cherries Poached in Red Wine with Mascarpone Cream",
-                        "description":"Thick mascarpone cheese mixed with honey makes a luscious topping for poached cherries.",
+                        "name":"Chocolate Cake Rolls",
+                        "description":"Chocolate cake rolls are deep and rich two-layer rolls.",
                         "offers":{
                             "price":"14.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Zabaglione with Strawberries",
-                        "description":"The zabaglione is mixed with whipped cream and refrigerate.",
+                        "name":"Tufahije",
+                        "description":"Stewed Stuffed Apples in Syrup (Tufahije) is one of the tastiest apple dessert, poached apples, cooked in simple syrup, stuffed with walnuts, and topped with whipped cream for that final touch.",
                         "offers":{
                             "price":"11.32",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Pumpkin-Gingersnap Tiramisù",
-                        "description":"Pumpkin pie meets tiramisu, with layers of pumpkin-mascarpone custard and gingersnaps brushed with Calvados syrup.",
+                        "name":"Potica (Povitica) Poppy Seed Roll",
+                        "description":"Poppy seed roll potica (or povitica) is the world’s greatest strudel. This perfectly stuffed pastry will imprint on your memory.",
                         "offers":{
                             "price":"13.44",
                             "priceCurrency":"USD"
