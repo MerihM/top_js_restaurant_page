@@ -1920,80 +1920,80 @@
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
-                        "name":"Spaghetti Cacio e Pepe",
-                        "description":"A pasta dish from the cuisine of the city of Rome. Cacio e pepe means "cheese and pepper" in several central Italian dialects.",
+                        "name":"Hawaiian Chicken",
+                        "description":"These chicken thighs are marinated in a coconut milk mixture, then grilled to perfection. Serve with juicy pineapple slices, and you’ll get a tropical-flavored chicken dinner!",
                         "offers":{
                             "price":"19.39",
                             "priceCurrency":"USD"
                         }
                     },
                     "item2":{
-                        "name":"Chicken Scarpariello",
-                        "description":"Chicken scarpariello, also known as shoemaker's chicken, is a classic Italian-American dish of chicken, sausage, vinegar, onions and peppers.",
+                        "name":"Hawaiian Fried Rice",
+                        "description":"It has everything that makes up the distinct Hawaiian taste — ham, bell pepper, and of course, pineapples.",
                         "offers":{
                             "price":"18.28",
                             "priceCurrency":"USD"
                         }
                     },
                     "item3":{
-                        "name":"Spaghetti with Anchovy Carbonara",
-                        "description":"Traditional carbonara consists of pasta, egg, guanciale (pork jowl), pecorino, and pepper. Using anchovies in place of the guanciale and pecorino in this recipe makes it a bit lighter but keeps that salty flavor.",
+                        "name":"Hawaiian Chicken Kebabs",
+                        "description":"These grilled Hawaiian delights combine marinated chicken, pineapples, red onions, and bell peppers. The result is the best chicken kebabs ever!",
                         "offers":{
                             "price":"17.34",
                             "priceCurrency":"USD"
                         }
                     },
                     "item4":{
-                        "name":"Smoky Pork Pappardelle",
-                        "description":"For the luscious meat sauce, pork is braises with apples and honey, which adds some unexpected sweetness.",
+                        "name":"Kalua Pork",
+                        "description":"Kalua pork is a classic Hawaiian dish that you’ll often find in luaus. It’s smoked shredded pork traditionally cooked in an 'imu,' or underground oven.",
                         "offers":{
                             "price":"18.21",
                             "priceCurrency":"USD"
                         }
                     },
                     "item5":{
-                        "name":"Tuscan-Style Spareribs with Balsamic Glaze",
-                        "description":"Generously seasoned ribs with a mix of aromatic herbs and spices and slow-roasted until tender and crisp, finished with a simple balsamic glaze.",
+                        "name":"Spam Fried Rice",
+                        "description":"Hawaiians love Spam so much, so it’s no surprise that this state consumes millions of cans of Spam per year. If you love this canned good, too, this Spam fried rice is a must-try. It yields a bowl of tasty fried rice with a nice texture from mixed veggies.",
                         "offers":{
                             "price":"19.26",
                             "priceCurrency":"USD"
                         }
                     },
                     "item6":{
-                        "name":"Sardinian Stuffed Eggplant",
-                        "description":"Eggplants from the first pick of the season (le primizie) or firm, heavy eggplants with smooth, evenly colored skin are used in this dish because of their supple texture and earthy-sweet flavor without a hint of bitterness.",
+                        "name":"Shoyu Chicken",
+                        "description":"Another dish that offers a wonderful flavor combination is shoyu chicken, a dish with roots from Japan. One of its main ingredients, shoyu, is Japanese-style soy sauce that’s rich in umami flavors. The soy sauce goes into the marinade along with other spices.",
                         "offers":{
                             "price":"17.33",
                             "priceCurrency":"USD"
                         }
                     },
                     "item7":{
-                        "name":"Pea and Bacon Risotto",
-                        "description":"Not one for risotto purists – this simple recipe has just a few ingredients and the stock is added all in one go. The result is creamy, comforting yet healthy.",
+                        "name":"Hawaiian Pizza",
+                        "description":"Hawaiian pizza is wildly popular worldwide. It has sweet, cheesy, and salty flavors in one bite.",
                         "offers":{
                             "price":"17.65",
                             "priceCurrency":"USD"
                         }
                     },
                     "item8":{
-                        "name":"Braised Chicken all'Arrabbiata",
-                        "description":"All'Arrabbiata means "in an angry style" in Italian. Chicken is braised with five kinds of peppers in a wood-fired oven. Chicken is spiced with poblano and chile flakes, then braised. For extra kick, some hot pickled cherry peppers are tossed in.",
+                        "name":"Hawaiian Macaroni Salad",
+                        "description":"Classic, easy, and oh-so-creamy, this macaroni salad will steal the show at outdoor BBQ parties or even in special weekend meals.",
                         "offers":{
                             "price":"19.12",
                             "priceCurrency":"USD"
                         }
                     },
                     "item9":{
-                        "name":"Beef Brasato with Pappardelle and Mint",
-                        "description":"Chef braises beef shank and oxtail in red wine to make a brasato he serves with house-made mint pappardelle.",
+                        "name":"Hawaiian Pineapple Chicken Tacos",
+                        "description":"Expect a fusion of flavors from these loaded saucy tacos! Tender chicken with hula sauce, a slightly spicy slaw, and crunchy Asian noodles fill these insanely good tacos.",
                         "offers":{
                             "price":"16.34",
                             "priceCurrency":"USD"
                         }
                     },
                     "item10":{
-                        "name":"Sun-Dried Tomato and Arugula Pizza",
-                        "description":"The secret to this crispy pizza: giving the dough lots of time to rise so it's pliant enough to stretch very thin.",
+                        "name":"Ham and Cheese Sliders",
+                        "description":"They’re soft and fluffy, with a sweet flavor that pairs well with the smoky ham and nutty cheese.",
                         "offers":{
                             "price":"19.84",
                             "priceCurrency":"USD"
