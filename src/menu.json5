@@ -2092,80 +2092,80 @@
                   "description":"Assortment of italian alcoholic beverages",
                   "MenuItems":{
                     "item1":{
-                        "name":"Barolo",
-                        "description":"From the Piedmont region of Italy, Barolo is a full-bodied red wine with an alcohol level at the higher end.",
+                        "name":"Hawaiian Mimosa",
+                        "description":"Most people know mimosas are simply a combination of champagne and orange juice, but these are Hawaiian mimosas, so they’re somewhat different. You’ll still use champagne, but you’ll replace the orange juice with pineapple juice and add a bit of coconut rum for an extra kick.",
                         "offers":{
                             "price":"18.26",
                             "priceCurrency":"USD"
                         }
                     }
                     "item2":{
-                        "name":"Chianti",
-                        "description":"Characteristically served in a bulb shaped bottle with a straw case, Chianti is a red wine from Tuscany’s Chianti region.",
+                        "name":"Maui Island Breeze Cocktail",
+                        "description":"If you’re looking for something more on the bittersweet side, try the Maui island breeze. It contains vodka and pineapple juice.",
                         "offers":{
                             "price":"15.37",
                             "priceCurrency":"USD"
                         }
                     }
                     "item3":{
-                        "name":"Pinot Grigio",
-                        "description":"Pinot Grigio has become a staple white wine around the globe due to how drinkable it is. A zesty wine, it’s named after the grape its made from.",
+                        "name":"Blue Hawaiian Cocktail",
+                        "description":"Coconut rum, pineapple juice, lots of ice, and pineapples and maraschino cherries for garnishes.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item4":{
-                        "name":"Soave",
-                        "description":"From the Veneto region, near Verona, Soave is a dry white wine.",
+                        "name":"Hawaiian Sea Breeze",
+                        "description":"If you’re looking for something a bit more crisp and refreshing, give the Hawaiian sea breeze a try. It combines cranberry juice, pineapple juice, and vodka for a tart, slightly bitter, but entirely refreshing cocktail with an appealing red color.",
                         "offers":{
                             "price":"17.24",
                             "priceCurrency":"USD"
                         }
                     }
                     "item5":{
-                        "name":"Prosecco",
-                        "description":"A sparkling white wine from northern Italy, Prosecco’s popularity has grown massively over the last decade.",
+                        "name":"Mai Tai",
+                        "description":"The Mai Tai is one Hawaiian cocktail that nearly everyone knows, even if they aren’t entirely sure how to make it. It’s a rum-heavy drink that’s pretty strong, and it has a rich, complex flavor. It’s tropical and tangy, but there are sweeter, earthier notes beneath the surface.",
                         "offers":{
                             "price":"15.14",
                             "priceCurrency":"USD"
                         }
                     }
                     "item6":{
-                        "name":"Campari",
-                        "description":"Campari is a bitter liqueur invented in 1860 by Gaspare Campari in Novara, Italy. 150 years on, Campari is one of the most popular aperitifs in Italy and one of the best-known Italian liqueurs across the world.",
+                        "name":"Hawaiian Lava Flow",
+                        "description":"The Hawaiian lava flow takes its name from its red and frothy appearance, which some people think is very lava-like.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
                         }
                     }
                     "item7":{
-                        "name":"Bellini",
-                        "description":"The bellini is a sweet and fruity Italian mixed drink consisting of just two ingredients; Prosecco and peach purée.",
+                        "name":"Hawaiian Berry Smoothie",
+                        "description":"This gorgeous two-layer smoothie will bring all the island feels in just one sip! The first layer (Hawaiian layer) is a tasty blend of orange, banana, and mango. Meanwhile, the berry layer is made with berry yogurt, a mix of berries, and also a few banana slices.",
                         "offers":{
                             "price":"13.28",
                             "priceCurrency":"USD"
                         }
                     }
                     "item8":{
-                        "name":"Campari Soda",
-                        "description":"One of the simplest Italian cocktails but extremely popular nonetheless, Campari Soda is made by mixing Campari liqueur with sparkling soda water.",
+                        "name":"Hawaiian Sunrise",
+                        "description":"Lovely sunrise-colored drink that features red grenadine at the bottom and plenty of fruity, tropical ingredients on top. It’s tart and tangy and lovely enough to draw anyone’s eye.",
                         "offers":{
                             "price":"6.21",
                             "priceCurrency":"USD"
                         }
                     }
                     "item9":{
-                        "name":"Cappucino",
-                        "description":"A cappuccino is a single espresso shot served with hot milk and topped with foamed milk and a dash of cocoa powder.",
+                        "name":"Hawaiian Sunset",
+                        "description":"Pink-peach, sweet and nutty drink is the perfect evening complement to the Hawaiian Sunrise. It’s a simple, five-ingredient drink – vodka, orgeat, lime juice, lemon juice, and grenadine – and it takes no more than a few minutes to whip up.",
                         "offers":{
                             "price":"3.94",
                             "priceCurrency":"USD"
                         }
                     }
                     "item10":{
-                        "name":"Espresso",
-                        "description":"Coffee is another staple of Italian drinking culture. Starting the day with a coffee and pastry in a charming local cafe is a must while in Italy.",
+                        "name":"High Tide",
+                        "description":"The high tide stands out among all the other sweet, tart, and fruity drinks on this list because it’s much milder. It contains Cointreau and lemon juice, so there’s a bit of citrus zest, but mostly, the flavor comes from the Japanese whiskey, green tea syrup, and water, meaning there’s not a lot of it.",
                         "offers":{
                             "price":"3.27",
                             "priceCurrency":"USD"
