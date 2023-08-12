@@ -193,7 +193,7 @@
                   "MenuItems":{
                     "item1":{
                         "name":"Spaghetti Cacio e Pepe",
-                        "description":"A pasta dish from the cuisine of the city of Rome. Cacio e pepe means "cheese and pepper" in several central Italian dialects.",
+                        "description":"A pasta dish from the cuisine of the city of Rome. Cacio e pepe means 'cheese and pepper' in several central Italian dialects.",
                         "offers":{
                             "price":"19.39",
                             "priceCurrency":"USD"
@@ -249,7 +249,7 @@
                     },
                     "item8":{
                         "name":"Braised Chicken all'Arrabbiata",
-                        "description":"All'Arrabbiata means "in an angry style" in Italian. Chicken is braised with five kinds of peppers in a wood-fired oven. Chicken is spiced with poblano and chile flakes, then braised. For extra kick, some hot pickled cherry peppers are tossed in.",
+                        "description":"All'Arrabbiata means 'in an angry style' in Italian. Chicken is braised with five kinds of peppers in a wood-fired oven. Chicken is spiced with poblano and chile flakes, then braised. For extra kick, some hot pickled cherry peppers are tossed in.",
                         "offers":{
                             "price":"19.12",
                             "priceCurrency":"USD"
@@ -303,7 +303,7 @@
                     }
                     "item4":{
                         "name":"Almond Semifreddo with Caramelized Apples",
-                        "description":"Supercreamy almond semifreddo ("half-frozen") topped with warm caramelized apples.",
+                        "description":"Supercreamy almond semifreddo ('half-frozen') topped with warm caramelized apples.",
                         "offers":{
                             "price":"12.43",
                             "priceCurrency":"USD"
@@ -1167,7 +1167,7 @@
                     }
                     "item4":{
                         "name":"Tres Leches Cake",
-                        "description":"Tres leches, which literally means, “three milks,” is an incredibly moist and milky cake.",
+                        "description":"Tres leches, which literally means, 'three milks,' is an incredibly moist and milky cake.",
                         "offers":{
                             "price":"12.43",
                             "priceCurrency":"USD"
@@ -1403,7 +1403,7 @@
                   "MenuItems":{
                     "item1":{
                         "name":"Soupe à l’oignon",
-                        "description":"Soupe à l’oignon is an onion-based soup “au gratin” and a real tradition in French cuisine.",
+                        "description":"Soupe à l’oignon is an onion-based soup 'au gratin' and a real tradition in French cuisine.",
                         "offers":{
                             "price":"11.26",
                             "priceCurrency":"USD"
@@ -1427,7 +1427,7 @@
                     }
                     "item4":{
                         "name":"Soup au Champignons",
-                        "description":"While the name translated means “mushroom soup,” I wouldn’t blame you for calling this the soup of champions.",
+                        "description":"While the name translated means 'mushroom soup,' I wouldn’t blame you for calling this the soup of champions.",
                         "offers":{
                             "price":"14.44",
                             "priceCurrency":"USD"
@@ -1435,7 +1435,7 @@
                     }
                     "item5":{
                         "name":"Soup au Champignons",
-                        "description":"While the name translated means “mushroom soup,” I wouldn’t blame you for calling this the soup of champions.",
+                        "description":"While the name translated means 'mushroom soup,' I wouldn’t blame you for calling this the soup of champions.",
                         "offers":{
                             "price":"13.14",
                             "priceCurrency":"USD"
@@ -1797,7 +1797,7 @@
                     },
                     "item7":{
                         "name":"Ahi Tuna Salad",
-                        "description":"The Asian dressing is sublime with sesame oil, umami paste, ginger, garlic, and more. In Hawaii, the word `ahi` refers to two species of tuna, the yellowfin tuna and the bigeye.",
+                        "description":"The Asian dressing is sublime with sesame oil, umami paste, ginger, garlic, and more. In Hawaii, the word 'ahi' refers to two species of tuna, the yellowfin tuna and the bigeye.",
                         "offers":{
                             "price":"7.56",
                             "priceCurrency":"USD"
@@ -1907,7 +1907,7 @@
                     }
                     "item10":{
                         "name":"Hooulu Aina Salad w/Mango Dressing",
-                        "description":"fresh, local and heathy hooulu aina salad with fresh mango dressing.",
+                        "description":"Fresh, local and heathy hooulu aina salad with fresh mango dressing.",
                         "offers":{
                             "price":"11.27",
                             "priceCurrency":"USD"
@@ -2533,7 +2533,7 @@
                     }
                     "item2":{
                         "name":"Uroncha",
-                        "description":"Uroncha, the Japanese way to write "oolong tea," is one of Japan's most widely consumed beverages. Although green tea, black tea, and uroncha are all made from the same tea leaves, the difference in the oxidation process gives uroncha strong floral notes, making it an excellent palate cleanser.",
+                        "description":"Uroncha, the Japanese way to write 'oolong tea,' is one of Japan's most widely consumed beverages. Although green tea, black tea, and uroncha are all made from the same tea leaves, the difference in the oxidation process gives uroncha strong floral notes, making it an excellent palate cleanser.",
                         "offers":{
                             "price":"15.37",
                             "priceCurrency":"USD"
@@ -2541,7 +2541,7 @@
                     }
                     "item3":{
                         "name":"Kombu-cha",
-                        "description":"While in recent years, the fermented drink kombucha has been all the rage overseas, kombu-cha (literally "kelp tea")  is a simple Japanese tea made from just dried kelp and hot water boasting centuries of history.",
+                        "description":"While in recent years, the fermented drink kombucha has been all the rage overseas, kombu-cha (literally 'kelp tea')  is a simple Japanese tea made from just dried kelp and hot water boasting centuries of history.",
                         "offers":{
                             "price":"16.11",
                             "priceCurrency":"USD"
@@ -2981,7 +2981,7 @@
                     }
                     "item4":{
                         "name":"Rakija",
-                        "description":"Rakija is a universal term used for various fruit brandies produced in several Balkan countries (Southeast Europe). This strong spirit is distilled from different fruit and is sometimes additionally flavored or used as a liqueur base.",
+                        "description":"Rakija is a universal term used for various fruit brandies produced in several Balkan countries. This strong spirit is distilled from different fruit and is sometimes additionally flavored or used as a liqueur base.",
                         "offers":{
                             "price":"17.24",
                             "priceCurrency":"USD"
