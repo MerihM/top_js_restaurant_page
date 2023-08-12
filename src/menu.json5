@@ -445,7 +445,7 @@
                     }
                   }
                },
-            ]
+            ],
             "Kenya":[
                {
                   "name":"Starters",
@@ -793,7 +793,7 @@
                },
                {
                   "name":"Beverages",
-                  "description":"Assortment of italian alcoholic beverages",
+                  "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
                         "name":"Urwagwa",
@@ -877,7 +877,7 @@
                     }
                   }
                },
-            ]
+            ],
             "Mexico":[
                {
                   "name":"Starters",
@@ -1225,7 +1225,7 @@
                },
                {
                   "name":"Beverages",
-                  "description":"Assortment of italian alcoholic beverages",
+                  "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
                         "name":"Tequila",
@@ -1309,7 +1309,7 @@
                     }
                   }
                },
-            ]
+            ],
             "France":[
                {
                   "name":"Starters",
@@ -1657,7 +1657,7 @@
                },
                {
                   "name":"Beverages",
-                  "description":"Assortment of italian alcoholic beverages",
+                  "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
                         "name":"Kir",
@@ -1741,7 +1741,7 @@
                     }
                   }
                },
-            ]
+            ],
             "Hawaii":[
                {
                   "name":"Starters",
@@ -2089,7 +2089,7 @@
                },
                {
                   "name":"Beverages",
-                  "description":"Assortment of italian alcoholic beverages",
+                  "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
                         "name":"Hawaiian Mimosa",
@@ -2173,7 +2173,7 @@
                     }
                   }
                },
-            ]
+            ],
             "Japan":[
                {
                   "name":"Starters",
@@ -2521,7 +2521,7 @@
                },
                {
                   "name":"Beverages",
-                  "description":"Assortment of italian alcoholic beverages",
+                  "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
                         "name":"Matcha",
@@ -2605,7 +2605,7 @@
                     }
                   }
                },
-            ]
+            ],
             "Balkans":[
                {
                   "name":"Starters",
@@ -2953,7 +2953,7 @@
                },
                {
                   "name":"Beverages",
-                  "description":"Assortment of italian alcoholic beverages",
+                  "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
                         "name":"Višnjevača",
