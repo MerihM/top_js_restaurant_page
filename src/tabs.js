@@ -28,7 +28,7 @@ export function openTab(tab) {
     for (let cont of tabcontent) {
         cont.style.display = 'none';
         if ((tab.srcElement.id) == cont.id)
-            cont.style.display = 'block'
+            cont.style.display = 'flex'
     }
 }
 function makeCard(data) {
