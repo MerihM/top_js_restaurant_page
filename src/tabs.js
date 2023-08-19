@@ -66,6 +66,9 @@ function makeCard(data) {
     for (let items of data) {
         let allCards = document.createElement('div');
         allCards.classList.add('allCards', 'tabcontent')
+        let menuTitle = document.createElement('div')
+        menuTitle.innerText = items.name
+        allCards.appendChild(menuTitle)
         for (let i = 1; i < 11; i++) {
             let item = items.MenuItems[`item${i}`]
             let card = document.createElement('div');
