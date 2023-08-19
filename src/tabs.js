@@ -1,12 +1,13 @@
 import data from './menu.json5';
 export function createTabList() {
     const tabDiv = document.createElement('div');
-    const cities = ['Starter dishes', 'Soups & Salads', 'Main dishes', 'Desserts', 'Drinks'];
+    const cities = { 'Starter dishes': 'starters', 'Soups & Salads': 'sosa', 'Main dishes': 'main', 'Desserts': 'desserts', 'Drinks': 'drinks' };
     tabDiv.classList.add('tab');
-    for (let city of cities) {
+    for (let city in cities) {
         let tempBtn = document.createElement('button');
         tempBtn.classList.add('tablinks');
         tempBtn.innerText = city;
+        tempBtn.id = cities[city]
         tabDiv.appendChild(tempBtn);
     }
     return tabDiv;
@@ -14,23 +15,8 @@ export function createTabList() {
 
 export function addTabContent() {
     const tablinks = document.querySelectorAll(".tablinks");
-    let tempData = data.hasMenu.hasMenuSection[0].Italy
-    makeCard(tempData)
-    let para = makeCard(tempData);
-    const kvTest = { 'London': 'England', 'Paris': 'France', 'Tokyo': 'Japan' };
-    for (let city in kvTest) {
-        let newDiv = document.createElement('div');
-        let newHeading = document.createElement('h3');
-        let newPara = document.createElement('p');
-        newDiv.classList.add('tabcontent');
-        newDiv.id = `${city}`;
-        newHeading.innerText = `${city}`;
-        newDiv.appendChild(newHeading);
-        newPara.innerText = `${city} is capital city of ${kvTest[city]}`;
-        newDiv.appendChild(newPara);
-        para.appendChild(newDiv);
-    }
-    return para;
+    let tempData = data.hasMenu.hasMenuSection[0].Italy;
+    return makeCard(tempData);
 }
 
 export function openTab(tab) {
@@ -41,30 +27,15 @@ export function openTab(tab) {
     tab.srcElement.classList.add('active');
     for (let cont of tabcontent) {
         cont.style.display = 'none';
-        if ((tab.srcElement.innerHTML) == cont.id)
+        if ((tab.srcElement.id) == cont.id)
             cont.style.display = 'block'
     }
 }
-
-/* <div class="allCards tabcontent">
-    <div class="menuTitle">Current menu</div>
-    <div class="card">
-        <h3 class="title">Title</h3>
-        <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, labore sint placeat
-            cum
-            aliquid enim odio,
-            voluptates tempora consequatur incidunt ex quos eligendi praesentium aspernatur ut sapiente natus eum
-            sequi.
-        </p>
-        <div class="priceContainer">
-            <span class="priceText">Price</span>
-            <span class="price">5.23$</span>
-        </div>
-    </div>
-</div> */
 function makeCard(data) {
+    let allContent = document.createElement('div');
     for (let items of data) {
         let allCards = document.createElement('div');
+        allCards.style.display = 'none'
         allCards.classList.add('allCards', 'tabcontent');
         allCards.id = items.id;
         let menuTitle = document.createElement('div');
@@ -96,6 +67,7 @@ function makeCard(data) {
             card.appendChild(priceContainer);
             allCards.appendChild(card);
         }
-        return allCards;
+        allContent.appendChild(allCards);
     }
+    return allContent;
 }
