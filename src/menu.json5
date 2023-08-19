@@ -17,6 +17,7 @@
             "Italy":[
                {
                   "name":"Starters",
+                  "id":"starters",
                   "description":"Appetizers and such",
                   "MenuItems":{
                     "item1":{
@@ -103,6 +104,7 @@
                },
                {
                   "name":"Soups & Salads",
+                  "id":"sosa",
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
@@ -189,6 +191,7 @@
                },
                {
                   "name":"Main",
+                  "id":"main",
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
@@ -275,6 +278,7 @@
                },
                {
                   "name":"Desserts",
+                  "id":"desserts",
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
@@ -361,6 +365,7 @@
                },
                {
                   "name":"Beverages",
+                  "id":"drinks",
                   "description":"Assortment of italian alcoholic beverages",
                   "MenuItems":{
                     "item1":{
@@ -449,6 +454,7 @@
             "Kenya":[
                {
                   "name":"Starters",
+                  "id":"starters",
                   "description":"Appetizers and such",
                   "MenuItems":{
                     "item1":{
@@ -535,6 +541,7 @@
                },
                {
                   "name":"Soups & Salads",
+                  "id":"sosa",
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
@@ -621,6 +628,7 @@
                },
                {
                   "name":"Main",
+                  "id":"main",
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
@@ -707,6 +715,7 @@
                },
                {
                   "name":"Desserts",
+                  "id":"desserts",
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
@@ -793,6 +802,7 @@
                },
                {
                   "name":"Beverages",
+                  "id":"drinks",
                   "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
@@ -881,6 +891,7 @@
             "Mexico":[
                {
                   "name":"Starters",
+                  "id":"starters",
                   "description":"Appetizers and such",
                   "MenuItems":{
                     "item1":{
@@ -967,6 +978,7 @@
                },
                {
                   "name":"Soups & Salads",
+                  "id":"sosa",
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
@@ -1053,6 +1065,7 @@
                },
                {
                   "name":"Main",
+                  "id":"main",
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
@@ -1139,6 +1152,7 @@
                },
                {
                   "name":"Desserts",
+                  "id":"desserts",
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
@@ -1225,6 +1239,7 @@
                },
                {
                   "name":"Beverages",
+                  "id":"drinks",
                   "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
@@ -1313,6 +1328,7 @@
             "France":[
                {
                   "name":"Starters",
+                  "id":"starters",
                   "description":"Appetizers and such",
                   "MenuItems":{
                     "item1":{
@@ -1399,6 +1415,7 @@
                },
                {
                   "name":"Soups & Salads",
+                  "id":"sosa",
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
@@ -1485,6 +1502,7 @@
                },
                {
                   "name":"Main",
+                  "id":"main",
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
@@ -1571,6 +1589,7 @@
                },
                {
                   "name":"Desserts",
+                  "id":"desserts",
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
@@ -1657,6 +1676,7 @@
                },
                {
                   "name":"Beverages",
+                  "id":"drinks",
                   "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
@@ -1745,6 +1765,7 @@
             "Hawaii":[
                {
                   "name":"Starters",
+                  "id":"starters",
                   "description":"Appetizers and such",
                   "MenuItems":{
                     "item1":{
@@ -1831,6 +1852,7 @@
                },
                {
                   "name":"Soups & Salads",
+                  "id":"sosa",
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
@@ -1917,6 +1939,7 @@
                },
                {
                   "name":"Main",
+                  "id":"main",
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
@@ -2003,6 +2026,7 @@
                },
                {
                   "name":"Desserts",
+                  "id":"desserts",
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
@@ -2089,6 +2113,7 @@
                },
                {
                   "name":"Beverages",
+                  "id":"drinks",
                   "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
@@ -2177,6 +2202,7 @@
             "Japan":[
                {
                   "name":"Starters",
+                  "id":"starters",
                   "description":"Appetizers and such",
                   "MenuItems":{
                     "item1":{
@@ -2263,6 +2289,7 @@
                },
                {
                   "name":"Soups & Salads",
+                  "id":"sosa",
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
@@ -2349,6 +2376,7 @@
                },
                {
                   "name":"Main",
+                  "id":"main",
                   "description":"Main dishes",
                   "MenuItems":{
                     "item1":{
@@ -2435,6 +2463,7 @@
                },
                {
                   "name":"Desserts",
+                  "id":"desserts",
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
@@ -2521,6 +2550,7 @@
                },
                {
                   "name":"Beverages",
+                  "id":"drinks",
                   "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
@@ -2609,6 +2639,7 @@
             "Balkans":[
                {
                   "name":"Starters",
+                  "id":"starters",
                   "description":"Appetizers and such",
                   "MenuItems":{
                     "item1":{
@@ -2695,6 +2726,7 @@
                },
                {
                   "name":"Soups & Salads",
+                  "id":"sosa",
                   "description":"Salads and a few choices of soup",
                   "MenuItems":{
                     "item1":{
@@ -2782,6 +2814,7 @@
                {
                   "name":"Main",
                   "description":"Main dishes",
+                  "id":"main",
                   "MenuItems":{
                     "item1":{
                         "name":"Mini Ćevap",
@@ -2867,6 +2900,7 @@
                },
                {
                   "name":"Desserts",
+                  "id":"desserts",
                   "description":"Cakes and other sweets",
                   "MenuItems":{
                     "item1":{
@@ -2953,6 +2987,7 @@
                },
                {
                   "name":"Beverages",
+                  "id":"drinks",
                   "description":"Assortment of beverages",
                   "MenuItems":{
                     "item1":{
