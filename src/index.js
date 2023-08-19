@@ -10,5 +10,6 @@ window.addEventListener("load", (event) => {
     for (let e of tablinks) {
         e.addEventListener("click", openTab)
     }
+    document.getElementById("starters").click();
 });
 
