@@ -1,7 +1,7 @@
 import data from './menu.json5';
 export function createTabList() {
     const tabDiv = document.createElement('div');
-    const cities = ['London', 'Paris', 'Tokyo'];
+    const cities = ['Starter dishes', 'Soups & Salads', 'Main dishes', 'Desserts', 'Drinks'];
     tabDiv.classList.add('tab');
     for (let city of cities) {
         let tempBtn = document.createElement('button');
@@ -14,7 +14,9 @@ export function createTabList() {
 
 export function addTabContent() {
     const tablinks = document.querySelectorAll(".tablinks");
-    let para = document.createElement('div');
+    let tempData = data.hasMenu.hasMenuSection[0].Italy
+    makeCard(tempData)
+    let para = makeCard(tempData);
     const kvTest = { 'London': 'England', 'Paris': 'France', 'Tokyo': 'Japan' };
     for (let city in kvTest) {
         let newDiv = document.createElement('div');
@@ -42,8 +44,6 @@ export function openTab(tab) {
         if ((tab.srcElement.innerHTML) == cont.id)
             cont.style.display = 'block'
     }
-    let tempData = data.hasMenu.hasMenuSection[0].Italy
-    makeCard(tempData)
 }
 
 /* <div class="allCards tabcontent">
@@ -65,11 +65,12 @@ export function openTab(tab) {
 function makeCard(data) {
     for (let items of data) {
         let allCards = document.createElement('div');
-        allCards.classList.add('allCards', 'tabcontent')
-        allCards.id = items.id
-        let menuTitle = document.createElement('div')
-        menuTitle.innerText = items.name
-        allCards.appendChild(menuTitle)
+        allCards.classList.add('allCards', 'tabcontent');
+        allCards.id = items.id;
+        let menuTitle = document.createElement('div');
+        menuTitle.classList.add('menuTitle');
+        menuTitle.innerText = items.name;
+        allCards.appendChild(menuTitle);
         for (let i = 1; i < 11; i++) {
             let item = items.MenuItems[`item${i}`]
             let card = document.createElement('div');
@@ -79,7 +80,7 @@ function makeCard(data) {
             let priceText = document.createElement('span');
             let price = document.createElement('span');
             card.classList.add('card');
-            title.classList.add('menuTitle');
+            title.classList.add('title');
             description.classList.add('description');
             priceContainer.classList.add('priceContainer');
             priceText.classList.add('priceText');
@@ -87,14 +88,14 @@ function makeCard(data) {
             title.innerText = item.name;
             description.innerText = item.description;
             priceText.innerText = 'Price';
-            price.innerText = item.offers.price;
+            price.innerText = item.offers.price + "$";
             priceContainer.appendChild(priceText);
             priceContainer.appendChild(price);
             card.appendChild(title);
             card.appendChild(description);
             card.appendChild(priceContainer);
-            allCards.appendChild(card)
+            allCards.appendChild(card);
         }
-        console.log(allCards)
+        return allCards;
     }
 }
