@@ -15,7 +15,11 @@ export function createTabList() {
 
 export function addTabContent() {
     const tablinks = document.querySelectorAll(".tablinks");
-    let tempData = data.hasMenu.hasMenuSection[0].Italy;
+    let date = new Date().toUTCString().slice(0, 3);
+    console.log(date)
+    let cousineDay = { 'Mon': 'Italy', 'Tue': 'Kenya', 'Wed': 'France', 'Thu': 'Mexico', 'Fri': 'Hawaii', 'Sat': 'Japan', 'Sun': 'Balkans' }
+    console.log(cousineDay[date])
+    let tempData = data.hasMenu.hasMenuSection[0][cousineDay[date]];
     return makeCard(tempData);
 }
 
